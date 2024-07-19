@@ -1,0 +1,71 @@
+{
+    "January": {
+      "campusAwards": [
+        {
+          "id": 1,
+          "image": "https://example.com/path/to/image1.jpg",
+          "className": "Digital Publishing (GRD344)",
+          "recipient": "John Doe",
+          "date": "2023-06-10"
+        },
+        {
+          "id": 2,
+          "image": "https://example.com/path/to/image2.jpg",
+          "className": "Logos and Symbols (GRD356)",
+          "recipient": "Jane Smith",
+          "date": "2023-06-08"
+        }
+      ],
+      "onlineAwards": [
+        {
+          "id": 1,
+          "image": "https://example.com/path/to/image3.jpg",
+          "className": "Creating Brand Experience (GRD354)",
+          "recipient": "Alice Johnson",
+          "date": "2023-06-12"
+        },
+        {
+          "id": 2,
+          "image": "https://example.com/path/to/image4.jpg",
+          "className": "Packaging and Prototypes (GRD339)",
+          "recipient": "Bob Brown",
+          "date": "2023-06-15"
+        }
+      ]
+    },
+    "February": {
+      "campusAwards": [
+        {
+          "id": 3,
+          "image": "https://example.com/path/to/image5.jpg",
+          "className": "Project and Portfolio IV: Graphic Design (GRD349)",
+          "recipient": "Chris Green",
+          "date": "2023-07-01"
+        },
+        {
+          "id": 4,
+          "image": "https://example.com/path/to/image6.jpg",
+          "className": "Interactive Media Design and Usability (DGT372)",
+          "recipient": "Emma Blue",
+          "date": "2023-07-02"
+        }
+      ],
+      "onlineAwards": [
+        {
+          "id": 3,
+          "image": "https://example.com/path/to/image7.jpg",
+          "className": "Interactive Editorial Design (GRD4411)",
+          "recipient": "Diana White",
+          "date": "2023-07-04"
+        },
+        {
+          "id": 4,
+          "image": "https://example.com/path/to/image8.jpg",
+          "className": "Project and Portfolio V: Graphic Design (GRD359)",
+          "recipient": "Frank Black",
+          "date": "2023-07-05"
+        }
+      ]
+    }
+  }
+  
