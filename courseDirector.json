@@ -3,7 +3,7 @@
       "courseName": "Graphic Design 101",
       "courseCode": "GD101",
       "instructor": {
-        "photo": "./kyleJohnson.JPEG",
+        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
         "name": "John Doe",
         "bio": "John has been teaching graphic design for over 10 years. He has a background in digital art and loves to share his knowledge with students."
       }
@@ -12,7 +12,7 @@
       "courseName": "Advanced Typography",
       "courseCode": "AT202",
       "instructor": {
-        "photo": "./kyleJohnson.JPEG",
+        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
         "name": "Jane Smith",
         "bio": "Jane is an expert in typography with a passion for teaching students the nuances of type design."
       }
@@ -21,7 +21,7 @@
       "courseName": "Digital Illustration",
       "courseCode": "DI303",
       "instructor": {
-        "photo": "./kyleJohnson.JPEG",
+        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
         "name": "Jim Brown",
         "bio": "Jim has a rich background in digital illustration and enjoys helping students develop their own unique styles."
       }
@@ -30,7 +30,7 @@
       "courseName": "Web Design Basics",
       "courseCode": "WD104",
       "instructor": {
-        "photo": "./kyleJohnson.JPEG",
+        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
         "name": "Emily White",
         "bio": "Emily specializes in web design and aims to teach students how to create user-friendly and aesthetically pleasing websites."
       }
@@ -39,7 +39,7 @@
       "courseName": "Creative Branding",
       "courseCode": "CB205",
       "instructor": {
-        "photo": "./kyleJohnson.JPEG",
+        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
         "name": "Michael Green",
         "bio": "Michael is passionate about branding and helps students learn the art of creating memorable brands."
       }
@@ -48,7 +48,7 @@
       "courseName": "Photography for Designers",
       "courseCode": "PD306",
       "instructor": {
-        "photo": "./kyleJohnson.JPEG",
+        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
         "name": "Sarah Blue",
         "bio": "Sarah combines her love of photography and design to teach students how to capture and use stunning visuals in their work."
       }
@@ -57,7 +57,7 @@
       "courseName": "Interactive Media",
       "courseCode": "IM107",
       "instructor": {
-        "photo": "./kyleJohnson.JPEG",
+        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
         "name": "David Black",
         "bio": "David is an expert in interactive media, focusing on creating engaging and dynamic user experiences."
       }
@@ -66,7 +66,7 @@
       "courseName": "3D Modeling",
       "courseCode": "3DM208",
       "instructor": {
-        "photo": "./kyleJohnson.JPEG",
+        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
         "name": "Laura Brown",
         "bio": "Laura has extensive experience in 3D modeling and helps students bring their creative visions to life in three dimensions."
       }
@@ -75,7 +75,7 @@
       "courseName": "Motion Graphics",
       "courseCode": "MG309",
       "instructor": {
-        "photo": "./kyleJohnson.JPEG",
+        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
         "name": "Chris Grey",
         "bio": "Chris loves motion graphics and enjoys teaching students how to create captivating animated visuals."
       }
@@ -84,7 +84,7 @@
       "courseName": "UX/UI Design",
       "courseCode": "UX210",
       "instructor": {
-        "photo": "./kyleJohnson.JPEG",
+        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
         "name": "Jessica Pink",
         "bio": "Jessica specializes in UX/UI design and helps students create intuitive and engaging user interfaces."
       }
@@ -93,7 +93,7 @@
       "courseName": "Animation Principles",
       "courseCode": "AP311",
       "instructor": {
-        "photo": "./kyleJohnson.JPEG",
+        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
         "name": "Mark Silver",
         "bio": "Mark is an animation expert who teaches students the core principles of bringing characters and scenes to life."
       }
