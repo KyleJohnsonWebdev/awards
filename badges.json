@@ -1,0 +1,49 @@
+[
+    {
+      "id": 1,
+      "title": "LinkedIn Learning Essential Training Challenge",
+      "description": "Complete essential training courses on LinkedIn Learning for Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Adobe Dimension, Figma, CSS, and HTML. This challenge is designed to build a strong foundation in design and web development tools.",
+      "image": "https://example.com/images/linkedin-learning.png",
+      "category": "Design & Development",
+      "difficulty": "Medium",
+      "duration": "20 hours",
+      "points": 300,
+      "requirements": [
+        "Access to LinkedIn Learning",
+        "Dedication to complete all essential training courses"
+      ],
+      "reward": "Essential Training Sticker"
+    },
+    {
+      "id": 2,
+      "title": "Halloween Themed Illustration Challenge",
+      "description": "Create a Halloween-themed illustration using any medium of your choice. The illustration should capture the spirit of Halloween and can include elements like pumpkins, ghosts, witches, or any other spooky theme. Students are encouraged to be creative and think outside the box.",
+      "image": "https://example.com/images/halloween-illustration.png",
+      "category": "Illustration",
+      "difficulty": "Easy",
+      "duration": "5 hours",
+      "points": 150,
+      "requirements": [
+        "Basic knowledge of illustration tools (e.g., Adobe Illustrator, Photoshop, Procreate)",
+        "Creativity and a Halloween-themed idea"
+      ],
+      "reward": "Halloween Illustrator Sticker"
+    },
+    {
+      "id": 3,
+      "title": "Project Revision & Badge Challenge",
+      "description": "Take your instructor's feedback on a project and implement the revisions. Present the updated project to your instructor for review. If you successfully update your project and include it in your portfolio, you will earn a badge sticker, and your work will be showcased.",
+      "image": "https://example.com/images/project-revision.png",
+      "category": "Portfolio Enhancement",
+      "difficulty": "Medium",
+      "duration": "3 hours",
+      "points": 200,
+      "requirements": [
+        "Completion of a project with instructor feedback",
+        "Incorporation of revisions into the project",
+        "Updated project in your portfolio"
+      ],
+      "reward": "Project Revision Badge Sticker"
+    }
+  ]
+  
