@@ -18,30 +18,30 @@
       }
     },
     {
-      "courseName": "Digital Illustration",
-      "courseCode": "DI303",
+      "courseName": "Digital Publishing",
+      "courseCode": "GRD344",
       "instructor": {
-        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
-        "name": "Jim Brown",
-        "bio": "Jim has a rich background in digital illustration and enjoys helping students develop their own unique styles."
+        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/peter.jpeg?raw=true",
+        "name": "Peter Soutullo",
+        "bio": "Brutally handsome design."
       }
     },
     {
-      "courseName": "Web Design Basics",
-      "courseCode": "WD104",
+      "courseName": "Logos and Symbols",
+      "courseCode": "GRD356",
       "instructor": {
         "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
-        "name": "Emily White",
-        "bio": "Emily specializes in web design and aims to teach students how to create user-friendly and aesthetically pleasing websites."
+        "name": "Fatima Rice",
+        "bio": "Fatima Lotfi Rice is a Brazilian American painter, graphic designer, and conceptual artist with over 30 years of experience. She holds a BA in Visual Communication with a minor in Industrial Design and earned the Advanced Achievement Award as Valedictorian in her Master's in Media Design at Full Sail University. With 21 years of teaching Graphic Design at Full Sail, she has exhibited her artwork both locally and internationally."
       }
     },
     {
-      "courseName": "Creative Branding",
-      "courseCode": "CB205",
+      "courseName": "Project and Portfolio IV",
+      "courseCode": "VSA349GR",
       "instructor": {
         "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
-        "name": "Michael Green",
-        "bio": "Michael is passionate about branding and helps students learn the art of creating memorable brands."
+        "name": "Megan Brown",
+        "bio": ""
       }
     },
     {
