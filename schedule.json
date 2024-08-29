@@ -1,0 +1,21 @@
+[
+    {
+      "month": "September",
+      "courseCode": "GD101",
+      "courseDescription": "Introduction to Graphic Design",
+      "labDates": ["Sept 1", "Sept 8", "Sept 15", "Sept 22"]
+    },
+    {
+      "month": "October",
+      "courseCode": "GD201",
+      "courseDescription": "Advanced Typography",
+      "labDates": ["Oct 3", "Oct 10", "Oct 17", "Oct 24"]
+    },
+    {
+      "month": "November",
+      "courseCode": "GD301",
+      "courseDescription": "Web Design Basics",
+      "labDates": ["Nov 5", "Nov 12", "Nov 19", "Nov 26"]
+    }
+  ]
+  
