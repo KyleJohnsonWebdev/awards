@@ -41,25 +41,25 @@
       "instructor": {
         "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
         "name": "Megan Brown",
-        "bio": ""
+        "bio": "Project and Portfolio IV instructor"
       }
     },
     {
-      "courseName": "Photography for Designers",
-      "courseCode": "PD306",
+      "courseName": "Packaging and Prototypes",
+      "courseCode": "GRD339",
       "instructor": {
-        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
+        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/Suzy.jpeg?raw=true",
         "name": "Sarah Blue",
         "bio": "Sarah combines her love of photography and design to teach students how to capture and use stunning visuals in their work."
       }
     },
     {
-      "courseName": "Interactive Media",
-      "courseCode": "IM107",
+      "courseName": "Project and Portfolio V",
+      "courseCode": "GRD359",
       "instructor": {
-        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
-        "name": "David Black",
-        "bio": "David is an expert in interactive media, focusing on creating engaging and dynamic user experiences."
+        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/carson.jpeg?raw=true",
+        "name": "Carson Wampler",
+        "bio": "Carson has over 10 years of experience teaching in Full Sail's Graphic Design program and freelancing as a graphic designer. He's taught courses like Typography, Color Theory, Digital Publishing, and Portfolio Creation. His freelance work spans event promotions, branding, UX design, and web design. Carson holds an Honors BFA from UCF, specializing in Conceptual Photography, Installation Art, and Sculpture, along with a Master's in Instructional Design & Technology."
       }
     },
     {
