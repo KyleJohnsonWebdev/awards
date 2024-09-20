@@ -12,7 +12,7 @@
       "category": "Design & Development",
       "difficulty": "Medium",
       "duration": "20 hours",
-      "points": 0,
+      "resource": "none",
       "requirements": [
         "Access to LinkedIn Learning",
         "Dedication to complete all essential training courses"
@@ -21,9 +21,9 @@
     },
     {
       "id": 2,
-      "title": "Halloween Themed Illustration Challenge",
+      "title": "Halloween Themed Laboween Candy Bucket 2024",
       "hook": "Got what it takes to tackle this Halloween challenge? Let’s see what ghoulish creation you can conjure up.",
-      "description": "Create a Halloween-themed illustration using any medium of your choice. The illustration should capture the spirit of Halloween and can include elements like pumpkins, ghosts, witches, or any other spooky theme. Students are encouraged to be creative and think outside the box.",
+      "description": "Create a Halloween-themed illustration using the following candy bucket template. The bucket should capture the spirit of Halloween and can include elements like pumpkins, ghosts, witches, or any other spooky theme. Students are encouraged to be creative and think outside the bucket.",
       "background": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/HALLOWEEN-01.svg",
       "mountains": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/HALLOWEEN-03.svg",
       "forestBack": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/HALLOWEEN-04.svg",
@@ -32,12 +32,13 @@
       "category": "Illustration",
       "difficulty": "Easy",
       "duration": "5 hours",
-      "points": 0,
+      "resource": "https://drive.google.com/file/d/1iFiX7qsKkWmTxh-MguO9Aljh7USFywf8/view",
       "requirements": [
         "Basic knowledge of illustration tools (e.g., Adobe Illustrator, Photoshop, Procreate)",
         "Creativity and a Halloween-themed idea"
+        
       ],
-      "reward": "Halloween Illustrator Sticker. Plus a crisp high five from Kyle and Jesse."
+      "reward": "Candy. Plus a crisp high five from Kyle and Jesse."
     },
     {
       "id": 3,
@@ -52,7 +53,7 @@
       "category": "Portfolio Enhancement",
       "difficulty": "Medium",
       "duration": "3 hours",
-      "points": 0,
+      "resource": "none",
       "requirements": [
         "Completion of a project with instructor feedback",
         "Incorporation of revisions into the project",
