@@ -21,7 +21,7 @@
       "courseName": "Digital Publishing",
       "courseCode": "GRD344",
       "instructor": {
-        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/peter.jpeg?raw=true",
+        "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Peter.jpg",
         "name": "Peter Soutullo",
         "bio": "Brutally handsome design."
       }
@@ -30,7 +30,7 @@
       "courseName": "Logos and Symbols",
       "courseCode": "GRD356",
       "instructor": {
-        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
+        "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Fatima.png",
         "name": "Fatima Rice",
         "bio": "Fatima Lotfi Rice is a Brazilian American painter, graphic designer, and conceptual artist with over 30 years of experience. She holds a BA in Visual Communication with a minor in Industrial Design and earned the Advanced Achievement Award as Valedictorian in her Master's in Media Design at Full Sail University. With 21 years of teaching Graphic Design at Full Sail, she has exhibited her artwork both locally and internationally."
       }
@@ -39,25 +39,25 @@
       "courseName": "Project and Portfolio IV",
       "courseCode": "VSA349GR",
       "instructor": {
-        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
+        "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Megan.jpg",
         "name": "Megan Brown",
-        "bio": "Project and Portfolio IV instructor"
+        "bio": "Associate Course Director for Digital Publishing"
       }
     },
     {
-      "courseName": "Packaging and Prototypes",
+      "courseName": "Packaging & Prototypes",
       "courseCode": "GRD339",
       "instructor": {
-        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/Suzy.jpeg?raw=true",
-        "name": "Sarah Blue",
-        "bio": "Sarah combines her love of photography and design to teach students how to capture and use stunning visuals in their work."
+        "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Suzy.jpg",
+        "name": "Suzanne Johnson",
+        "bio": "Still need!!!!!!"
       }
     },
     {
       "courseName": "Project and Portfolio V",
       "courseCode": "GRD359",
       "instructor": {
-        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/carson.jpeg?raw=true",
+        "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Carson.jpg",
         "name": "Carson Wampler",
         "bio": "Carson has over 10 years of experience teaching in Full Sail's Graphic Design program and freelancing as a graphic designer. He's taught courses like Typography, Color Theory, Digital Publishing, and Portfolio Creation. His freelance work spans event promotions, branding, UX design, and web design. Carson holds an Honors BFA from UCF, specializing in Conceptual Photography, Installation Art, and Sculpture, along with a Master's in Instructional Design & Technology."
       }
