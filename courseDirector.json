@@ -63,12 +63,12 @@
       }
     },
     {
-      "courseName": "3D Modeling",
-      "courseCode": "3DM208",
+      "courseName": "Media Integration",
+      "courseCode": "DGT375",
       "instructor": {
-        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
-        "name": "Laura Brown",
-        "bio": "Laura has extensive experience in 3D modeling and helps students bring their creative visions to life in three dimensions."
+        "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Matt.jpg",
+        "name": "Matthew Hindla",
+        "bio": "Matt teaches the Media Integration course which focuses on the implementation of engaging and interactive content for web-based designs. Students will learn how to integrate this content by utilizing various industry-standard programming languages and authoring tools."
       }
     },
     {
@@ -81,17 +81,17 @@
       }
     },
     {
-      "courseName": "UX/UI Design",
-      "courseCode": "UX210",
+      "courseName": "Interactive Editorial Design",
+      "courseCode": "GRD4411",
       "instructor": {
-        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
-        "name": "Jessica Pink",
-        "bio": "Jessica specializes in UX/UI design and helps students create intuitive and engaging user interfaces."
+        "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Shirley.jpg",
+        "name": "Shirley Ramirez",
+        "bio": "Shirley Ramirez, Course Director, teaches in the online portfolio block. With a strong background in graphic design and a passion for typography, she has worked on projects for Nike, Disney, and the Orlando Museum of Art. Alongside freelancing, she mentors aspiring designers through the Orlando Chapter of the American Institute of Graphic Arts and supports local nonprofits. Ramirez holds a Bachelor of Fine Arts in Graphic Design from the University of North Florida."
       }
     },
     {
-      "courseName": "Animation Principles",
-      "courseCode": "AP311",
+      "courseName": "Visual Realization",
+      "courseCode": "VSA4444",
       "instructor": {
         "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
         "name": "Mark Silver",
