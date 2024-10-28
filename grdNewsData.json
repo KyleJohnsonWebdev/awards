@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "Latest Design Trends",
+      "description": "Discover what's trending in the world of graphic design. Stay updated on the latest color, typography, and layout trends that are reshaping the industry.",
+      "link": "/news/latest-trends"
+    },
+    {
+      "id": 2,
+      "title": "Student Showcase",
+      "description": "Explore the latest projects from our talented students, showcasing creativity and technical skills in various design fields.",
+      "link": "/news/student-showcase"
+    },
+    {
+      "id": 3,
+      "title": "Upcoming Design Workshops",
+      "description": "Join our workshops to enhance your design skills. Sessions cover software tools, portfolio building, and industry trends.",
+      "link": "/news/workshops"
+    },
+    {
+      "id": 4,
+      "title": "Meet the GRD Faculty",
+      "description": "Get to know the experienced instructors and mentors who guide our graphic design students to success.",
+      "link": "/news/faculty"
+    }
+  ]
+  
