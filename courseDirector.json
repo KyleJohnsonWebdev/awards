@@ -1,5 +1,14 @@
 [
-    {
+  {
+    "courseName": "Lab",
+    "courseCode": "Lab",
+    "instructor": {
+      "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/kyleJesse.jpg",
+      "name": "Kyle and Jesse",
+      "bio": "Jesse and I are here to help with your projects. Together, we boast over 15 years of design and development experience—yes, we did the math."
+    }
+  },  
+  {
       "courseName": "Concepts In Advertising",
       "courseCode": "GRD473",
       "instructor": {
@@ -50,7 +59,9 @@
       "instructor": {
         "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Suzy.jpg",
         "name": "Suzanne Johnson",
-        "bio": "Still need!!!!!!"
+        "bio": "Suzanne Johnson is a Course Director in the Digital Arts and Design Degree at Full Sail University. After joining Full Sail in 2009, Suzanne has had the privilege of teaching Typography and Page Layout, Color Theory, Digital Publishing, Corporate Branding, Project and Portfolio IV, and Packaging &amp; Prototypes. She has also had a hand in developing the primary content for Full Sail's Graphic Design Online Bachelors degree.
+Suzanne has over 20 years of experience working as a Graphic Designer in the greater Orlando community. She has also served in the past on the board of the local American Institute of Graphic Arts chapter (AIGA Orlando), in addition to mentoring local students through the AIGA Mentorship Program.
+Suzanne holds two Bachelors degrees from the University of Central Florida, both with a focus on Graphic design. (Bachelor of Fine Arts - College of Arts and Humanities and Bachelor of Arts - Digital Media, graduated Dean's List)"
       }
     },
     {
