@@ -1,71 +1,205 @@
 {
-    "January": {
-      "campusAwards": [
+    "January": [
         {
-          "id": 1,
-          "image": "https://example.com/path/to/image1.jpg",
-          "className": "Digital Publishing (GRD344)",
-          "recipient": "John Doe",
-          "date": "2023-06-10"
+            "className": "Digital Publishing",
+            "recipients": [
+                {
+                    "name": "Denise Edgar Pinto",
+                    "section": "Campus"
+                },
+                {
+                    "name": "Khayla Abron",
+                    "section": "Online"
+                },
+                {
+                    "name": "Jhared Crocker",
+                    "section": "Online"
+                }
+            ]
         },
         {
-          "id": 2,
-          "image": "https://example.com/path/to/image2.jpg",
-          "className": "Logos and Symbols (GRD356)",
-          "recipient": "Jane Smith",
-          "date": "2023-06-08"
-        }
-      ],
-      "onlineAwards": [
-        {
-          "id": 1,
-          "image": "https://example.com/path/to/image3.jpg",
-          "className": "Creating Brand Experience (GRD354)",
-          "recipient": "Alice Johnson",
-          "date": "2023-06-12"
+            "className": "Logos & Symbols",
+            "recipients": [
+                {
+                    "name": "Khayla Abron",
+                    "section": "Campus"
+                },
+                {
+                    "name": "Renee Goldsborough",
+                    "section": "Online"
+                },
+                {
+                    "name": "Bless Shingler",
+                    "section": "Online"
+                }
+            ]
         },
         {
-          "id": 2,
-          "image": "https://example.com/path/to/image4.jpg",
-          "className": "Packaging and Prototypes (GRD339)",
-          "recipient": "Bob Brown",
-          "date": "2023-06-15"
-        }
-      ]
-    },
-    "February": {
-      "campusAwards": [
-        {
-          "id": 3,
-          "image": "https://example.com/path/to/image5.jpg",
-          "className": "Project and Portfolio IV: Graphic Design (GRD349)",
-          "recipient": "Chris Green",
-          "date": "2023-07-01"
+            "className": "Creating Brand Experience",
+            "recipients": [
+                {
+                    "name": "None",
+                    "section": "Campus"
+                },
+                {
+                    "name": "Sarah Sanscrainte",
+                    "section": "Online"
+                },
+                {
+                    "name": "Stephanie Foster",
+                    "section": "Online"
+                }
+            ]
         },
         {
-          "id": 4,
-          "image": "https://example.com/path/to/image6.jpg",
-          "className": "Interactive Media Design and Usability (DGT372)",
-          "recipient": "Emma Blue",
-          "date": "2023-07-02"
-        }
-      ],
-      "onlineAwards": [
-        {
-          "id": 3,
-          "image": "https://example.com/path/to/image7.jpg",
-          "className": "Interactive Editorial Design (GRD4411)",
-          "recipient": "Diana White",
-          "date": "2023-07-04"
+            "className": "Portfolio IV",
+            "recipients": [
+                {
+                    "name": "Sam Berger",
+                    "section": "Campus"
+                },
+                {
+                    "name": "Juan Pablo Bonilla Velasquez",
+                    "section": "Online"
+                },
+                {
+                    "name": "D'Avion Culver",
+                    "section": "Online"
+                }
+            ]
         },
         {
-          "id": 4,
-          "image": "https://example.com/path/to/image8.jpg",
-          "className": "Project and Portfolio V: Graphic Design (GRD359)",
-          "recipient": "Frank Black",
-          "date": "2023-07-05"
+            "className": "Int. Media Design & Usability",
+            "recipients": [
+                {
+                    "name": "None",
+                    "section": "Campus"
+                },
+                {
+                    "name": "Michelle Foster",
+                    "section": "Online"
+                }
+            ]
+        },
+        {
+            "className": "Interactive Editorial Design",
+            "recipients": [
+                {
+                    "name": "Aja Rosales Wilson",
+                    "section": "Campus"
+                },
+                {
+                    "name": "Calista Cross",
+                    "section": "Online"
+                },
+                {
+                    "name": "Allison Johnson",
+                    "section": "Online"
+                }
+            ]
+        },
+        {
+            "className": "Portfolio V",
+            "recipients": [
+                {
+                    "name": "Jordan Miller",
+                    "section": "Campus"
+                },
+                {
+                    "name": "Andrew Straczynski",
+                    "section": "Online"
+                },
+                {
+                    "name": "Kristina Hernandez",
+                    "section": "Online"
+                }
+            ]
+        },
+        {
+            "className": "Graphic Web Design",
+            "recipients": [
+                {
+                    "name": "Matthew Aguilar",
+                    "section": "Campus"
+                },
+                {
+                    "name": "Melissa Almanza",
+                    "section": "Online"
+                }
+            ]
+        },
+        {
+            "className": "Media Integration",
+            "recipients": [
+                {
+                    "name": "Lexi Blanco",
+                    "section": "Campus"
+                },
+                {
+                    "name": "Cory Bacon",
+                    "section": "Online"
+                }
+            ]
+        },
+        {
+            "className": "Porfolio VI",
+            "recipients": [
+                {
+                    "name": "Kaytlin Deschamps",
+                    "section": "Campus"
+                },
+                {
+                    "name": "Ladonia Dorsey",
+                    "section": "Online"
+                }
+            ]
+        },
+        {
+            "className": "Concepts in Advertising",
+            "recipients": [
+                {
+                    "name": "Kaytlin Deschamps",
+                    "section": "Campus"
+                },
+                {
+                    "name": "Jacqueline Schneider",
+                    "section": "Online"
+                },
+                {
+                    "name": "Emily Heath",
+                    "section": "Online"
+                }
+            ]
+        },
+        {
+            "className": "Digital Studio",
+            "recipients": [
+                {
+                    "name": "Amanda Jasiczek",
+                    "section": "Campus"
+                },
+                {
+                    "name": "Neusha Azami",
+                    "section": "Online"
+                }
+            ]
+        },
+        {
+            "className": "Portfolio VII",
+            "recipients": [
+                {
+                    "name": "Peyton Tangness",
+                    "section": "Campus"
+                },
+                {
+                    "name": "Joselyn Oechsle",
+                    "section": "Online"
+                },
+                {
+                    "name": "Jennifer Donnelly",
+                    "section": "Online"
+                }
+            ]
         }
-      ]
-    }
-  }
-  
+    ]
+}
