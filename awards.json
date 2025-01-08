@@ -1,205 +1,144 @@
 {
-    "January": [
-        {
-            "className": "Digital Publishing",
-            "recipients": [
-                {
-                    "name": "Denise Edgar Pinto",
-                    "section": "Campus"
-                },
-                {
-                    "name": "Khayla Abron",
-                    "section": "Online"
-                },
-                {
-                    "name": "Jhared Crocker",
-                    "section": "Online"
-                }
-            ]
-        },
-        {
-            "className": "Logos & Symbols",
-            "recipients": [
-                {
-                    "name": "Khayla Abron",
-                    "section": "Campus"
-                },
-                {
-                    "name": "Renee Goldsborough",
-                    "section": "Online"
-                },
-                {
-                    "name": "Bless Shingler",
-                    "section": "Online"
-                }
-            ]
-        },
-        {
-            "className": "Creating Brand Experience",
-            "recipients": [
-                {
-                    "name": "None",
-                    "section": "Campus"
-                },
-                {
-                    "name": "Sarah Sanscrainte",
-                    "section": "Online"
-                },
-                {
-                    "name": "Stephanie Foster",
-                    "section": "Online"
-                }
-            ]
-        },
-        {
-            "className": "Portfolio IV",
-            "recipients": [
-                {
-                    "name": "Sam Berger",
-                    "section": "Campus"
-                },
-                {
-                    "name": "Juan Pablo Bonilla Velasquez",
-                    "section": "Online"
-                },
-                {
-                    "name": "D'Avion Culver",
-                    "section": "Online"
-                }
-            ]
-        },
-        {
-            "className": "Int. Media Design & Usability",
-            "recipients": [
-                {
-                    "name": "None",
-                    "section": "Campus"
-                },
-                {
-                    "name": "Michelle Foster",
-                    "section": "Online"
-                }
-            ]
-        },
-        {
-            "className": "Interactive Editorial Design",
-            "recipients": [
-                {
-                    "name": "Aja Rosales Wilson",
-                    "section": "Campus"
-                },
-                {
-                    "name": "Calista Cross",
-                    "section": "Online"
-                },
-                {
-                    "name": "Allison Johnson",
-                    "section": "Online"
-                }
-            ]
-        },
-        {
-            "className": "Portfolio V",
-            "recipients": [
-                {
-                    "name": "Jordan Miller",
-                    "section": "Campus"
-                },
-                {
-                    "name": "Andrew Straczynski",
-                    "section": "Online"
-                },
-                {
-                    "name": "Kristina Hernandez",
-                    "section": "Online"
-                }
-            ]
-        },
-        {
-            "className": "Graphic Web Design",
-            "recipients": [
-                {
-                    "name": "Matthew Aguilar",
-                    "section": "Campus"
-                },
-                {
-                    "name": "Melissa Almanza",
-                    "section": "Online"
-                }
-            ]
-        },
-        {
-            "className": "Media Integration",
-            "recipients": [
-                {
-                    "name": "Lexi Blanco",
-                    "section": "Campus"
-                },
-                {
-                    "name": "Cory Bacon",
-                    "section": "Online"
-                }
-            ]
-        },
-        {
-            "className": "Porfolio VI",
-            "recipients": [
-                {
-                    "name": "Kaytlin Deschamps",
-                    "section": "Campus"
-                },
-                {
-                    "name": "Ladonia Dorsey",
-                    "section": "Online"
-                }
-            ]
-        },
-        {
-            "className": "Concepts in Advertising",
-            "recipients": [
-                {
-                    "name": "Kaytlin Deschamps",
-                    "section": "Campus"
-                },
-                {
-                    "name": "Jacqueline Schneider",
-                    "section": "Online"
-                },
-                {
-                    "name": "Emily Heath",
-                    "section": "Online"
-                }
-            ]
-        },
-        {
-            "className": "Digital Studio",
-            "recipients": [
-                {
-                    "name": "Amanda Jasiczek",
-                    "section": "Campus"
-                },
-                {
-                    "name": "Neusha Azami",
-                    "section": "Online"
-                }
-            ]
-        },
-        {
-            "className": "Portfolio VII",
-            "recipients": [
-                {
-                    "name": "Peyton Tangness",
-                    "section": "Campus"
-                },
-                {
-                    "name": "Joselyn Oechsle",
-                    "section": "Online"
-                },
-                {
-                    "name": "Jennifer Donnelly",
-                    "section": "Online"
-                }
-            ]
-        }
-    ]
+    "January": {
+        "campusAwards": [
+            {
+                "className": "Digital Publishing",
+                "recipient": "Denise Edgar Pinto"
+            },
+            {
+                "className": "Logos & Symbols",
+                "recipient": "Khayla Abron"
+            },
+            {
+                "className": "Creating Brand Experience",
+                "recipient": "None"
+            },
+            {
+                "className": "Portfolio IV",
+                "recipient": "Sam Berger"
+            },
+            {
+                "className": "Int. Media Design & Usability",
+                "recipient": "None"
+            },
+            {
+                "className": "Interactive Editorial Design",
+                "recipient": "Aja Rosales Wilson"
+            },
+            {
+                "className": "Portfolio V",
+                "recipient": "Jordan Miller"
+            },
+            {
+                "className": "Graphic Web Design",
+                "recipient": "Matthew Aguilar"
+            },
+            {
+                "className": "Media Integration",
+                "recipient": "Lexi Blanco"
+            },
+            {
+                "className": "Porfolio VI",
+                "recipient": "Kaytlin Deschamps"
+            },
+            {
+                "className": "Concepts in Advertising",
+                "recipient": "Kaytlin Deschamps"
+            },
+            {
+                "className": "Digital Studio",
+                "recipient": "Amanda Jasiczek"
+            },
+            {
+                "className": "Portfolio VII",
+                "recipient": "Peyton Tangness"
+            }
+        ],
+        "onlineAwards": [
+            {
+                "className": "Digital Publishing",
+                "recipient": "Khayla Abron"
+            },
+            {
+                "className": "Digital Publishing",
+                "recipient": "Jhared Crocker"
+            },
+            {
+                "className": "Logos & Symbols",
+                "recipient": "Renee Goldsborough"
+            },
+            {
+                "className": "Logos & Symbols",
+                "recipient": "Bless Shingler"
+            },
+            {
+                "className": "Creating Brand Experience",
+                "recipient": "Sarah Sanscrainte"
+            },
+            {
+                "className": "Creating Brand Experience",
+                "recipient": "Stephanie Foster"
+            },
+            {
+                "className": "Portfolio IV",
+                "recipient": "Juan Pablo Bonilla Velasquez"
+            },
+            {
+                "className": "Portfolio IV",
+                "recipient": "D'Avion Culver"
+            },
+            {
+                "className": "Int. Media Design & Usability",
+                "recipient": "Michelle Foster"
+            },
+            {
+                "className": "Interactive Editorial Design",
+                "recipient": "Calista Cross"
+            },
+            {
+                "className": "Interactive Editorial Design",
+                "recipient": "Allison Johnson"
+            },
+            {
+                "className": "Portfolio V",
+                "recipient": "Andrew Straczynski"
+            },
+            {
+                "className": "Portfolio V",
+                "recipient": "Kristina Hernandez"
+            },
+            {
+                "className": "Graphic Web Design",
+                "recipient": "Melissa Almanza"
+            },
+            {
+                "className": "Media Integration",
+                "recipient": "Cory Bacon"
+            },
+            {
+                "className": "Porfolio VI",
+                "recipient": "Ladonia Dorsey"
+            },
+            {
+                "className": "Concepts in Advertising",
+                "recipient": "Jacqueline Schneider"
+            },
+            {
+                "className": "Concepts in Advertising",
+                "recipient": "Emily Heath"
+            },
+            {
+                "className": "Digital Studio",
+                "recipient": "Neusha Azami"
+            },
+            {
+                "className": "Portfolio VII",
+                "recipient": "Joselyn Oechsle"
+            },
+            {
+                "className": "Portfolio VII",
+                "recipient": "Jennifer Donnelly"
+            }
+        ]
+    }
 }
