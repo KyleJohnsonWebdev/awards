@@ -299,6 +299,10 @@
         "March": {
             "campusAwards": [
                 {
+                    "className": "CLASS",
+                    "recipient": "SECTION 00"
+                },
+                {
                     "className": "Digital Publishing",
                     "recipient": "Natalie Krekel"
                 },
@@ -409,6 +413,10 @@
             ],
             "onlineAwards": [
                 {
+                    "className": "CLASS",
+                    "recipient": "SECTION 2"
+                },
+                {
                     "className": "Digital Publishing",
                     "recipient": "Kourtni Briscoe"
                 },
@@ -461,6 +469,10 @@
                     "recipient": "Emily Heath"
                 },
                 {
+                    "className": "CLASS",
+                    "recipient": "SECTION 3"
+                },
+                {
                     "className": "Creating Brand Experience",
                     "recipient": "Dylan Hancock"
                 }
@@ -468,6 +480,10 @@
         },
         "April": {
             "campusAwards": [
+                {
+                    "className": "CLASS",
+                    "recipient": "SECTION 00"
+                },
                 {
                     "className": "Digital Publishing",
                     "recipient": "Dante Fordham"
@@ -579,6 +595,10 @@
             ],
             "onlineAwards": [
                 {
+                    "className": "CLASS",
+                    "recipient": "SECTION 2"
+                },
+                {
                     "className": "Digital Publishing",
                     "recipient": "Melissa Dunton"
                 },
@@ -629,6 +649,10 @@
                 {
                     "className": "Portfolio VII",
                     "recipient": "None"
+                },
+                {
+                    "className": "CLASS",
+                    "recipient": "SECTION 3"
                 },
                 {
                     "className": "Logos & Symbols",
@@ -967,6 +991,10 @@
         "July": {
             "campusAwards": [
                 {
+                    "className": "CLASS",
+                    "recipient": "SECTION 00"
+                },
+                {
                     "className": "Digital Publishing",
                     "recipient": "Cole Maury"
                 },
@@ -1085,6 +1113,10 @@
             ],
             "onlineAwards": [
                 {
+                    "className": "CLASS",
+                    "recipient": "SECTION 2"
+                },
+                {
                     "className": "Digital Publishing",
                     "recipient": "Rachel Markee"
                 },
@@ -1141,6 +1173,10 @@
                     "recipient": "Katherine Galioto"
                 },
                 {
+                    "className": "CLASS",
+                    "recipient": "SECTION 3"
+                },
+                {
                     "className": "Concepts in Advertising",
                     "recipient": "Simcha Betesh"
                 },
@@ -1152,6 +1188,10 @@
         },
         "August": {
             "campusAwards": [
+                {
+                    "className": "CLASS",
+                    "recipient": "SECTION 00"
+                },
                 {
                     "className": "Digital Publishing",
                     "recipient": "Jomarie Rivera Delgado"
@@ -1247,6 +1287,10 @@
             ],
             "onlineAwards": [
                 {
+                    "className": "CLASS",
+                    "recipient": "SECTION 2"
+                },
+                {
                     "className": "Digital Publishing",
                     "recipient": "Adedayo Olugbemi"
                 },
@@ -1287,6 +1331,10 @@
                     "recipient": "Allison Johnson"
                 },
                 {
+                    "className": "CLASS",
+                    "recipient": "SECTION 3"
+                },
+                {
                     "className": "Logos & Symbols",
                     "recipient": "Angelina Miller"
                 },
@@ -1295,8 +1343,16 @@
                     "recipient": "Juan Pablo Bonilla Velasquez"
                 },
                 {
+                    "className": "CLASS",
+                    "recipient": "SECTION 4"
+                },
+                {
                     "className": "Concepts in Advertising",
                     "recipient": "Desiree Basinger"
+                },
+                {
+                    "className": "CLASS",
+                    "recipient": "SECTION 5"
                 },
                 {
                     "className": "Concepts in Advertising",
@@ -1306,6 +1362,10 @@
         },
         "September": {
             "campusAwards": [
+                {
+                    "className": "CLASS",
+                    "recipient": "SECTION 00"
+                },
                 {
                     "className": "Digital Publishing",
                     "recipient": "Ta'Asia Singleton"
@@ -1425,6 +1485,10 @@
             ],
             "onlineAwards": [
                 {
+                    "className": "CLASS",
+                    "recipient": "SECTION 2"
+                },
+                {
                     "className": "Digital Publishing",
                     "recipient": "Jasmine Mungin"
                 },
@@ -1455,11 +1519,27 @@
                 {
                     "className": "Porfolio VII",
                     "recipient": "Desiree Cypheus"
+                },
+                {
+                    "className": "CLASS",
+                    "recipient": "SECTION 3"
+                },
+                {
+                    "className": "CLASS",
+                    "recipient": "SECTION 4"
+                },
+                {
+                    "className": "CLASS",
+                    "recipient": "SECTION 5"
                 }
             ]
         },
         "October": {
             "campusAwards": [
+                {
+                    "className": "CLASS",
+                    "recipient": "SECTION 00"
+                },
                 {
                     "className": "Digital Publishing",
                     "recipient": "Roxanne Storts-Berio"
@@ -1579,6 +1659,10 @@
             ],
             "onlineAwards": [
                 {
+                    "className": "CLASS",
+                    "recipient": "SECTION 2"
+                },
+                {
                     "className": "Digital Publishing",
                     "recipient": "Chelsie Lombardo"
                 },
@@ -1623,6 +1707,10 @@
                     "recipient": "Anna Kennedy"
                 },
                 {
+                    "className": "CLASS",
+                    "recipient": "SECTION 3"
+                },
+                {
                     "className": "Logos & Symbols",
                     "recipient": "Kristapher Halsey"
                 },
@@ -1635,8 +1723,16 @@
                     "recipient": "G Rosario"
                 },
                 {
+                    "className": "CLASS",
+                    "recipient": "SECTION 4"
+                },
+                {
                     "className": "Concepts in Advertising",
                     "recipient": "Nicholas Darnell"
+                },
+                {
+                    "className": "CLASS",
+                    "recipient": "SECTION 5"
                 }
             ]
         }
