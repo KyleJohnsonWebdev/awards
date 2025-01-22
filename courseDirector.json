@@ -9,24 +9,6 @@
     }
   },
   {
-    "courseName": "Packaging & Prototypes",
-    "courseCode": "GRD339",
-    "instructor": {
-      "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Suzy.jpg",
-      "name": "Suzanne Johnson",
-      "bio": "Suzanne Johnson is a Course Director in the Digital Arts and Design Degree at Full Sail University. After joining Full Sail in 2009, Suzanne has had the privilege of teaching Typography and Page Layout, Color Theory, Digital Publishing, Corporate Branding, Project and Portfolio IV, and Packaging &amp; Prototypes. She has also had a hand in developing the primary content for Full Sail's Graphic Design Online Bachelors degree. Suzanne has over 20 years of experience working as a Graphic Designer in the greater Orlando community. She has also served in the past on the board of the local American Institute of Graphic Arts chapter (AIGA Orlando), in addition to mentoring local students through the AIGA Mentorship Program. Suzanne holds two Bachelors degrees from the University of Central Florida, both with a focus on Graphic design. (Bachelor of Fine Arts - College of Arts and Humanities and Bachelor of Arts - Digital Media, graduated Dean's List)"
-    }
-  },
-  {
-    "courseName": "Project and Portfolio V",
-    "courseCode": "GRD359",
-    "instructor": {
-      "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Carson.jpg",
-      "name": "Carson Wampler",
-      "bio": "Carson has over 10 years of experience teaching in Full Sail's Graphic Design program and freelancing as a graphic designer. He's taught courses like Typography, Color Theory, Digital Publishing, and Portfolio Creation. His freelance work spans event promotions, branding, UX design, and web design. Carson holds an Honors BFA from UCF, specializing in Conceptual Photography, Installation Art, and Sculpture, along with a Master's in Instructional Design & Technology."
-    }
-  },
-  {
     "courseName": "Digital Publishing",
     "courseCode": "GRD344",
     "instructor": {
@@ -96,6 +78,24 @@
       "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Leslie.jpg",
       "name": "Leslie Laguna",
       "bio": "Visual Realization instructor. The Visual Realization course enables students to substantiate their career aspirations by developing an original project or asset while adhering to industry metrics and established expectations."
+    }
+  },
+{
+    "courseName": "Packaging & Prototypes",
+    "courseCode": "GRD339",
+    "instructor": {
+      "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Suzy.jpg",
+      "name": "Suzanne Johnson",
+      "bio": "Suzanne Johnson is a Course Director in the Digital Arts and Design Degree at Full Sail University. After joining Full Sail in 2009, Suzanne has had the privilege of teaching Typography and Page Layout, Color Theory, Digital Publishing, Corporate Branding, Project and Portfolio IV, and Packaging &amp; Prototypes. She has also had a hand in developing the primary content for Full Sail's Graphic Design Online Bachelors degree. Suzanne has over 20 years of experience working as a Graphic Designer in the greater Orlando community. She has also served in the past on the board of the local American Institute of Graphic Arts chapter (AIGA Orlando), in addition to mentoring local students through the AIGA Mentorship Program. Suzanne holds two Bachelors degrees from the University of Central Florida, both with a focus on Graphic design. (Bachelor of Fine Arts - College of Arts and Humanities and Bachelor of Arts - Digital Media, graduated Dean's List)"
+    }
+  },
+  {
+    "courseName": "Project and Portfolio V",
+    "courseCode": "GRD359",
+    "instructor": {
+      "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Carson.jpg",
+      "name": "Carson Wampler",
+      "bio": "Carson has over 10 years of experience teaching in Full Sail's Graphic Design program and freelancing as a graphic designer. He's taught courses like Typography, Color Theory, Digital Publishing, and Portfolio Creation. His freelance work spans event promotions, branding, UX design, and web design. Carson holds an Honors BFA from UCF, specializing in Conceptual Photography, Installation Art, and Sculpture, along with a Master's in Instructional Design & Technology."
     }
   },
 {
