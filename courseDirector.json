@@ -115,5 +115,14 @@
       "name": "Milena Jackson",
       "bio": "I have been a professional designer since 1999 with experience in print, web, interactive, and broadcast design. I love to teach, I enjoy the synergistic relationship between teacher and student. The experience is challenging and rewarding and I believe I really do have the heart of a teacher. In 2006 I received a BFA from the Ernest Welch School of Art and Design at Georgia State University. While in Atlanta I was able to work with Turner Studios, CNN International, and CNN Español. I moved back to Florida to pursue my family life where I married my husband Erik, a musician, music producer, label owner, and sound designer/engineer. In 2012 I received a Masters Degree in Fine Art specializing in Media Design from Full Sail University. Throughout pursuing my education, teaching career, and my growing family, I have always maintained my freelance career, when the opportunity is right and I feel a true connection with a client I can't say no to the work. It's in my blood and it's who I am!"
     }
+  },
+ {
+    "courseName": "Graphic Web Design",
+    "courseCode": "DIG3100",
+    "instructor": {
+      "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Brian.jpg",
+      "name": "Brian Ashe",
+      "bio": "Currently Associate Course Director for Graphic Web Design & Media Integration. Started at Full Sail in 2003. Former lab specialist, lead lab specialist, studio artist, and instructor for Digital Publishing, Typography, Page Layout, Fundamentals of Web Design, Digital Storytelling, Portfolio Creation, Digital Studio, Color Theory, Design, Art Theory, and others. Graphic design, web design, and web app development since 1996. BA, 1995. MFA, 2018."
+    }
   }
 ]
