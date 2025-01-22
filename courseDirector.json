@@ -1,111 +1,119 @@
 [
   {
     "courseName": "Lab",
-    "courseCode": "Lab",
+    "courseCode": "FS2 107Q",
     "instructor": {
       "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/kyleJesse.jpg",
       "name": "Kyle and Jesse",
-      "bio": "Jesse and I are here to help with your projects. Together, we boast over 15 years of design and development experience—yes, we did the math."
+      "bio": "Jesse and Kyle are here to help with your projects. Together, we boast over 15 years of design and development experience\u2014yes, we did the math."
     }
-  },  
+  },
   {
-      "courseName": "Concepts In Advertising",
-      "courseCode": "GRD473",
-      "instructor": {
-        "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Joe.jpg",
-        "name": "Joe Gornik",
-        "bio": "Joe, an award-winning advertising specialist with 30 years of experience, joined Full Sail in 2011, teaching courses like Digital Storytelling and Typography. He was the CEO of Gornik Advertising and is recognized for his work on the Doctor Dolittle title sequence. His clients include top brands like HBO, Universal Pictures, and Bank of America. Joe holds an MFA in Media Design from Full Sail University."
-      }
-    },
-    {
-      "courseName": "Creating Brand Experience",
-      "courseCode": "GRD354",
-      "instructor": {
-        "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Daniel.jpg",
-        "name": "Daniel Moye",
-        "bio": " Daniel Moye holds a Bachelor of Arts in Commercial Art with an Advertising Minor from Flagler College. With over 35 years in the advertising industry, he spent 14 years as Creative Director/Owner at Alianda, 3 years as an adjunct professor, and 14 years as a Full Sail faculty member."
-      }
-    },
-    {
-      "courseName": "Digital Publishing",
-      "courseCode": "GRD344",
-      "instructor": {
-        "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Peter.jpg",
-        "name": "Peter Soutullo",
-        "bio": "Brutally handsome design."
-      }
-    },
-    {
-      "courseName": "Logos and Symbols",
-      "courseCode": "GRD356",
-      "instructor": {
-        "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Fatima.png",
-        "name": "Fatima Rice",
-        "bio": "Fatima Lotfi Rice is a Brazilian American painter, graphic designer, and conceptual artist with over 30 years of experience. She holds a BA in Visual Communication with a minor in Industrial Design and earned the Advanced Achievement Award as Valedictorian in her Master's in Media Design at Full Sail University. With 21 years of teaching Graphic Design at Full Sail, she has exhibited her artwork both locally and internationally."
-      }
-    },
-    {
-      "courseName": "Project and Portfolio IV",
-      "courseCode": "VSA349GR",
-      "instructor": {
-        "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Megan.jpg",
-        "name": "Megan Brown",
-        "bio": "Associate Course Director for Digital Publishing"
-      }
-    },
-    {
-      "courseName": "Packaging & Prototypes",
-      "courseCode": "GRD339",
-      "instructor": {
-        "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Suzy.jpg",
-        "name": "Suzanne Johnson",
-        "bio": "Suzanne Johnson is a Course Director in the Digital Arts and Design Degree at Full Sail University. After joining Full Sail in 2009, Suzanne has had the privilege of teaching Typography and Page Layout, Color Theory, Digital Publishing, Corporate Branding, Project and Portfolio IV, and Packaging &amp; Prototypes. She has also had a hand in developing the primary content for Full Sail's Graphic Design Online Bachelors degree. Suzanne has over 20 years of experience working as a Graphic Designer in the greater Orlando community. She has also served in the past on the board of the local American Institute of Graphic Arts chapter (AIGA Orlando), in addition to mentoring local students through the AIGA Mentorship Program. Suzanne holds two Bachelors degrees from the University of Central Florida, both with a focus on Graphic design. (Bachelor of Fine Arts - College of Arts and Humanities and Bachelor of Arts - Digital Media, graduated Dean's List)"
-      }
-    },
-    {
-      "courseName": "Project and Portfolio V",
-      "courseCode": "GRD359",
-      "instructor": {
-        "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Carson.jpg",
-        "name": "Carson Wampler",
-        "bio": "Carson has over 10 years of experience teaching in Full Sail's Graphic Design program and freelancing as a graphic designer. He's taught courses like Typography, Color Theory, Digital Publishing, and Portfolio Creation. His freelance work spans event promotions, branding, UX design, and web design. Carson holds an Honors BFA from UCF, specializing in Conceptual Photography, Installation Art, and Sculpture, along with a Master's in Instructional Design & Technology."
-      }
-    },
-    {
-      "courseName": "Media Integration",
-      "courseCode": "DGT375",
-      "instructor": {
-        "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Matt.jpg",
-        "name": "Matthew Hindla",
-        "bio": "Matt teaches the Media Integration course which focuses on the implementation of engaging and interactive content for web-based designs. Students will learn how to integrate this content by utilizing various industry-standard programming languages and authoring tools."
-      }
-    },
-    {
-      "courseName": "Motion Graphics",
-      "courseCode": "MG309",
-      "instructor": {
-        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
-        "name": "Chris Grey",
-        "bio": "Chris loves motion graphics and enjoys teaching students how to create captivating animated visuals."
-      }
-    },
-    {
-      "courseName": "Interactive Editorial Design",
-      "courseCode": "GRD4411",
-      "instructor": {
-        "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Shirley.jpg",
-        "name": "Shirley Ramirez",
-        "bio": "Shirley Ramirez, Course Director, teaches in the online portfolio block. With a strong background in graphic design and a passion for typography, she has worked on projects for Nike, Disney, and the Orlando Museum of Art. Alongside freelancing, she mentors aspiring designers through the Orlando Chapter of the American Institute of Graphic Arts and supports local nonprofits. Ramirez holds a Bachelor of Fine Arts in Graphic Design from the University of North Florida."
-      }
-    },
-    {
-      "courseName": "Visual Realization",
-      "courseCode": "VSA4444",
-      "instructor": {
-        "photo": "https://github.com/KyleJohnsonWebdev/awards/blob/9785f906a27ac91714e94b014c0fcd6f38ed3ce9/kyleJohnson.jpeg?raw=true",
-        "name": "Mark Silver",
-        "bio": "Mark is an animation expert who teaches students the core principles of bringing characters and scenes to life."
-      }
+    "courseName": "Packaging & Prototypes",
+    "courseCode": "GRD339",
+    "instructor": {
+      "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Suzy.jpg",
+      "name": "Suzanne Johnson",
+      "bio": "Suzanne Johnson is a Course Director in the Digital Arts and Design Degree at Full Sail University. After joining Full Sail in 2009, Suzanne has had the privilege of teaching Typography and Page Layout, Color Theory, Digital Publishing, Corporate Branding, Project and Portfolio IV, and Packaging &amp; Prototypes. She has also had a hand in developing the primary content for Full Sail's Graphic Design Online Bachelors degree. Suzanne has over 20 years of experience working as a Graphic Designer in the greater Orlando community. She has also served in the past on the board of the local American Institute of Graphic Arts chapter (AIGA Orlando), in addition to mentoring local students through the AIGA Mentorship Program. Suzanne holds two Bachelors degrees from the University of Central Florida, both with a focus on Graphic design. (Bachelor of Fine Arts - College of Arts and Humanities and Bachelor of Arts - Digital Media, graduated Dean's List)"
     }
-  ]
-  
+  },
+  {
+    "courseName": "Project and Portfolio V",
+    "courseCode": "GRD359",
+    "instructor": {
+      "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Carson.jpg",
+      "name": "Carson Wampler",
+      "bio": "Carson has over 10 years of experience teaching in Full Sail's Graphic Design program and freelancing as a graphic designer. He's taught courses like Typography, Color Theory, Digital Publishing, and Portfolio Creation. His freelance work spans event promotions, branding, UX design, and web design. Carson holds an Honors BFA from UCF, specializing in Conceptual Photography, Installation Art, and Sculpture, along with a Master's in Instructional Design & Technology."
+    }
+  },
+  {
+    "courseName": "Digital Publishing",
+    "courseCode": "GRD344",
+    "instructor": {
+      "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Peter.jpg",
+      "name": "Peter Soutullo",
+      "bio": "Brutally handsome design."
+    }
+  },
+  {
+    "courseName": "Logos and Symbols",
+    "courseCode": "GRD356",
+    "instructor": {
+      "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Fatima.png",
+      "name": "Fatima Rice",
+      "bio": "Fatima Lotfi Rice is a Brazilian American painter, graphic designer, and conceptual artist with over 30 years of experience. She holds a BA in Visual Communication with a minor in Industrial Design and earned the Advanced Achievement Award as Valedictorian in her Master's in Media Design at Full Sail University. With 21 years of teaching Graphic Design at Full Sail, she has exhibited her artwork both locally and internationally."
+    }
+  },
+  {
+    "courseName": "Concepts In Advertising",
+    "courseCode": "GRD473",
+    "instructor": {
+      "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Joe.jpg",
+      "name": "Joe Gornik",
+      "bio": "Joe, an award-winning advertising specialist with 30 years of experience, joined Full Sail in 2011, teaching courses like Digital Storytelling and Typography. He was the CEO of Gornik Advertising and is recognized for his work on the Doctor Dolittle title sequence. His clients include top brands like HBO, Universal Pictures, and Bank of America. Joe holds an MFA in Media Design from Full Sail University."
+    }
+  },
+  {
+    "courseName": "Creating Brand Experience",
+    "courseCode": "GRD354",
+    "instructor": {
+      "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Daniel.jpg",
+      "name": "Daniel Moye",
+      "bio": " Daniel Moye holds a Bachelor of Arts in Commercial Art with an Advertising Minor from Flagler College. With over 35 years in the advertising industry, he spent 14 years as Creative Director/Owner at Alianda, 3 years as an adjunct professor, and 14 years as a Full Sail faculty member."
+    }
+  },
+  {
+    "courseName": "Project and Portfolio IV",
+    "courseCode": "VSA349GR",
+    "instructor": {
+      "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Megan.jpg",
+      "name": "Megan Brown",
+      "bio": "Associate Course Director for Digital Publishing"
+    }
+  },
+  {
+    "courseName": "Media Integration",
+    "courseCode": "DGT375",
+    "instructor": {
+      "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Matt.jpg",
+      "name": "Matthew Hindla",
+      "bio": "Matt teaches the Media Integration course which focuses on the implementation of engaging and interactive content for web-based designs. Students will learn how to integrate this content by utilizing various industry-standard programming languages and authoring tools."
+    }
+  },
+  {
+    "courseName": "Interactive Editorial Design",
+    "courseCode": "GRD4411",
+    "instructor": {
+      "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Shirley.jpg",
+      "name": "Shirley Ramirez",
+      "bio": "Shirley Ramirez, Course Director, teaches in the online portfolio block. With a strong background in graphic design and a passion for typography, she has worked on projects for Nike, Disney, and the Orlando Museum of Art. Alongside freelancing, she mentors aspiring designers through the Orlando Chapter of the American Institute of Graphic Arts and supports local nonprofits. Ramirez holds a Bachelor of Fine Arts in Graphic Design from the University of North Florida."
+    }
+  },
+  {
+    "courseName": "Visual Realization",
+    "courseCode": "VSA4444",
+    "instructor": {
+      "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Leslie.jpg",
+      "name": "Leslie Laguna",
+      "bio": "Visual Realization instructor. The Visual Realization course enables students to substantiate their career aspirations by developing an original project or asset while adhering to industry metrics and established expectations."
+    }
+  },
+{
+    "courseName": "Visual Realization",
+    "courseCode": "VSA4444",
+    "instructor": {
+      "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Triesta.jpg",
+      "name": "Triesta Hall",
+      "bio": "Visual Realization instructor and Department Chair. The Visual Realization course enables students to substantiate their career aspirations by developing an original project or asset while adhering to industry metrics and established expectations."
+    }
+  },
+  {
+    "courseName": "Interactive Media Design and Usability",
+    "courseCode": "DGT372",
+    "instructor": {
+      "photo": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/Milena.jpg",
+      "name": "Milena Jackson",
+      "bio": "I have been a professional designer since 1999 with experience in print, web, interactive, and broadcast design. I love to teach, I enjoy the synergistic relationship between teacher and student. The experience is challenging and rewarding and I believe I really do have the heart of a teacher. In 2006 I received a BFA from the Ernest Welch School of Art and Design at Georgia State University. While in Atlanta I was able to work with Turner Studios, CNN International, and CNN Español. I moved back to Florida to pursue my family life where I married my husband Erik, a musician, music producer, label owner, and sound designer/engineer. In 2012 I received a Masters Degree in Fine Art specializing in Media Design from Full Sail University. Throughout pursuing my education, teaching career, and my growing family, I have always maintained my freelance career, when the opportunity is right and I feel a true connection with a client I can't say no to the work. It's in my blood and it's who I am!"
+    }
+  }
+]
