@@ -1,65 +1,108 @@
 [
-    {
-      "id": 1,
-      "title": "LinkedIn Learning Essential Training Challenge",
-      "hook": "Conquer this LinkedIn Learning challenge and officially win at adulting. Family, friends, recruiters, and your future self will thank you.",
-      "description": "Complete essential training courses on LinkedIn Learning for Adobe Photoshop, Adobe Illustrator, Adobe InDesign, Adobe Dimension, Figma, CSS, and HTML. This challenge is designed to build a strong foundation in design and web development tools.",
-      "background": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Artboard%201.svg",
-      "mountains": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Artboard%201_1.svg",
-      "forestBack": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Artboard%201_2.svg",
-      "forestMid": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Artboard%201_3.svg",
-      "forestFront": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Artboard%201_4.svg",
-      "category": "Design & Development",
-      "difficulty": "Medium",
-      "duration": "20 hours",
-      "resource": "none",
-      "requirements": [
-        "Access to LinkedIn Learning",
-        "Dedication to complete all essential training courses"
-      ],
-      "reward": "Essential Training Badge. A LinkedIn profile that stands out to recruiters."
-    },
-    {
-      "id": 2,
-      "title": "Halloween Themed Laboween Candy Bucket 2024",
-      "hook": "Got what it takes to tackle this Halloween challenge? Let’s see what ghoulish creation you can conjure up.",
-      "description": "Create a Halloween-themed illustration using the following candy bucket template. The bucket should capture the spirit of Halloween and can include elements like pumpkins, ghosts, witches, or any other spooky theme. Students are encouraged to be creative and think outside the bucket.",
-      "background": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/HALLOWEEN-01.svg",
-      "mountains": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/HALLOWEEN-03.svg",
-      "forestBack": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/HALLOWEEN-04.svg",
-      "forestMid": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/HALLOWEEN-02.svg",
-      "forestFront": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/HALLOWEEN-05.svg",
-      "category": "Illustration",
-      "difficulty": "Easy",
-      "duration": "5 hours",
-      "resource": "https://drive.google.com/file/d/1iFiX7qsKkWmTxh-MguO9Aljh7USFywf8/view",
-      "requirements": [
-        "Basic knowledge of illustration tools (e.g., Adobe Illustrator, Photoshop, Procreate)",
-        "Creativity and a Halloween-themed idea"
-        
-      ],
-      "reward": "Candy. Plus a crisp high five from Kyle and Jesse."
-    },
-    {
-      "id": 3,
-      "title": "Project Revision & Badge Challenge",
-      "hook": "Turn feedback into a finished masterpiece—revise your projects, impress your instructors, and earn that badge sticker like a pro.",
-      "description": "Take your instructor's feedback on a project and implement the revisions. Present the updated project to your instructor for review. If you successfully update your project and include it in your portfolio, you will earn a badge sticker, and your work will be showcased.",
-      "background": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Revise.svg",
-      "mountains": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Revise-01.svg",
-      "forestBack": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Revise-02.svg",
-      "forestMid": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Revise-03.svg",
-      "forestFront": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Revise-04.svg",
-      "category": "Portfolio Enhancement",
-      "difficulty": "Medium",
-      "duration": "3 hours",
-      "resource": "none",
-      "requirements": [
-        "Completion of a project with instructor feedback",
-        "Incorporation of revisions into the project",
-        "Updated project in your portfolio"
-      ],
-      "reward": "Project Revision Sticker. Rad Sense of Accomplishment."
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "LinkedIn Learning Essential Training Challenge",
+    "hook": "Conquer this LinkedIn Learning challenge and officially win at adulting. Family, friends, recruiters, and your future self will thank you.",
+    "description": "Complete essential training courses on LinkedIn Learning for Adobe Photoshop, Adobe Illustrator, and Adobe InDesign. This challenge is designed to build a strong foundation in design and web development tools.",
+    "background": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Artboard%201.svg",
+    "mountains": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Artboard%201_1.svg",
+    "forestBack": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Artboard%201_2.svg",
+    "forestMid": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Artboard%201_3.svg",
+    "forestFront": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Artboard%201_4.svg",
+    "category": "Design & Development",
+    "difficulty": "Medium",
+    "duration": "20 hours",
+    "resource": [
+      "https://www.linkedin.com/learning/paths/essential-skills-in-adobe-photoshop-2024-professional-certificate?u=50813145",
+      "https://www.linkedin.com/learning/paths/essential-skills-in-adobe-illustrator-2024-professional-certificate?u=50813145",
+      "https://www.linkedin.com/learning/paths/essential-skills-in-adobe-indesign-2024-professional-certificate?u=50813145"
+    ],
+    "requirements": [
+      "Access to LinkedIn Learning",
+      "Dedication to complete all essential training courses"
+    ],
+    "reward": "Essential Training Badge. A LinkedIn profile that stands out to recruiters."
+  },
+  {
+    "id": 2,
+    "title": "Project Revision & Badge Challenge",
+    "hook": "Turn feedback into a finished masterpiece—revise your projects, impress your instructors, and earn that badge sticker like a pro.",
+    "description": "Take your instructor's feedback on a project and implement the revisions. Present the updated project to your instructor for review. If you successfully update your project and include it in your portfolio, you will earn a badge sticker, and your work will be showcased.",
+    "background": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Revise.svg",
+    "mountains": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Revise-01.svg",
+    "forestBack": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Revise-02.svg",
+    "forestMid": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Revise-03.svg",
+    "forestFront": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Revise-04.svg",
+    "category": "Portfolio Enhancement",
+    "difficulty": "Medium",
+    "duration": "3 hours",
+    "resource": "none",
+    "requirements": [
+      "Completion of a project with instructor feedback",
+      "Incorporation of revisions into the project",
+      "Updated project in your portfolio"
+    ],
+    "reward": "Project Revision Sticker. Rad Sense of Accomplishment."
+  },
+  {
+    "id": 3,
+    "title": "AI-Powered Resume Challenge",
+    "hook": "Optimize your resume with AI tools and land the job of your dreams.",
+    "description": "Use AI tools like LinkedIn Resume Builder, Grammarly, and Jobscan to optimize your resume. Focus on clarity, tailoring it to specific roles, and highlighting your key achievements. Learn how to use AI suggestions to make your resume stand out to recruiters.",
+    "background": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Resume.svg",
+    "mountains": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Resume-01.svg",
+    "forestBack": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Resume-02.svg",
+    "forestMid": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Resume-03.svg",
+    "forestFront": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Resume-04.svg",
+    "category": "Career Development",
+    "difficulty": "Medium",
+    "duration": "3 hours",
+    "resource": "https://www.linkedin.com/learning/designing-a-resume-in-indesign/introduction-to-designing-a-resume-24474364?resume=false&u=50813145",
+    "requirements": [
+      "Access to AI tools like LinkedIn Resume Builder, Grammarly, or Jobscan",
+      "A current resume to optimize",
+      "Willingness to implement AI feedback"
+    ],
+    "reward": "Optimized Resume Badge. A job-ready resume that stands out."
+  },
+  {
+    "id": 4,
+    "title": "Create Your Personal Branding Kit",
+    "hook": "Make your mark with a cohesive personal brand that screams 'hire me.'",
+    "description": "Design a logo, business card, and email signature for yourself. Ensure consistency in colors, typography, and messaging across all assets.",
+    "background": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Branding.svg",
+    "mountains": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Branding-01.svg",
+    "forestBack": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Branding-02.svg",
+    "forestMid": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Branding-03.svg",
+    "forestFront": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Branding-04.svg",
+    "category": "Branding",
+    "difficulty": "Medium",
+    "duration": "6 hours",
+    "resource": "https://www.linkedin.com/learning/paths/advance-your-career-as-a-graphic-designer?u=50813145",
+    "requirements": [
+      "Basic design knowledge",
+      "A theme or direction for your personal brand"
+    ],
+    "reward": "Brand Builder Badge. Polished assets that leave a lasting impression."
+  },
+  {
+    "id": 5,
+    "title": "LinkedIn Profile Optimization Challenge",
+    "hook": "Optimize your LinkedIn profile to make a lasting impression on recruiters.",
+    "description": "Revamp your LinkedIn profile by adding certifications, a strong summary, updated projects, and a professional profile picture. Learn how to use keywords to increase visibility.",
+    "background": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/LinkedIn.svg",
+    "mountains": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/LinkedIn-01.svg",
+    "forestBack": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/LinkedIn-02.svg",
+    "forestMid": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/LinkedIn-03.svg",
+    "forestFront": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/LinkedIn-04.svg",
+    "category": "Career Development",
+    "difficulty": "Easy",
+    "duration": "2 hours",
+    "resource": "https://www.linkedin.com/learning/",
+    "requirements": [
+      "Access to LinkedIn",
+      "Willingness to research and implement best practices"
+    ],
+    "reward": "Professional Profile Badge. A LinkedIn profile that wows."
+  }
+]
