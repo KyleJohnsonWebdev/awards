@@ -104,5 +104,33 @@
       "Willingness to research and implement best practices"
     ],
     "reward": "Professional Profile Badge. A LinkedIn profile that wows."
-  }
+  },
+  {
+  "id": 6,
+  "title": "Graphic Design Portfolio Inspiration Challenge",
+  "hook": "Discover top-tier design portfolios, analyze what makes them great, and gather inspiration for your own masterpiece.",
+  "description": "Research and analyze at least five professional graphic design portfolios. Take notes on layout, typography, color schemes, presentation style, and project descriptions. Identify common trends and elements that make portfolios stand out. Summarize your key takeaways and create a mood board for your own portfolio inspiration. Use LinkedIn Learning resources to explore tools like Adobe Portfolio and Behance to start building your own portfolio.",
+  "background": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/PortfolioInspiration.svg",
+  "mountains": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/PortfolioInspiration-01.svg",
+  "forestBack": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/PortfolioInspiration-02.svg",
+  "forestMid": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/PortfolioInspiration-03.svg",
+  "forestFront": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/PortfolioInspiration-04.svg",
+  "category": "Design Research",
+  "difficulty": "Easy",
+  "duration": "3 hours",
+  "resource": [
+    "https://www.behance.net/",
+    "https://dribbble.com/",
+    "https://www.awwwards.com/",
+    "https://www.linkedin.com/learning-login/share?account=50813145&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fbuilding-a-portfolio-with-adobe-portfolio-9903517%3Ftrk%3Dshare_ent_url%26shareId%3DECa33pWPRBqxHfYW6iHfBQ%253D%253D",
+    "https://www.linkedin.com/learning-login/share?account=50813145&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcreative-cloud-crash-course%2Fbehance-and-adobe-portfolio%3Ftrk%3Dshare_video_url%26shareId%3D8ZGjpXtQR8%252BBBUinoivZcQ%253D%253D"
+  ],
+  "requirements": [
+    "Explore at least five professional graphic design portfolios",
+    "Take detailed notes on design elements and trends",
+    "Create a mood board with your favorite ideas",
+    "Review LinkedIn Learning resources on portfolio creation"
+  ],
+  "reward": "Portfolio Research Badge. A solid foundation for crafting an outstanding portfolio."
+}
 ]
