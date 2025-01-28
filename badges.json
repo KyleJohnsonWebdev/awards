@@ -3,7 +3,7 @@
     "id": 1,
     "title": "LinkedIn Learning Essential Training Challenge",
     "hook": "Conquer this LinkedIn Learning challenge and officially win at adulting. Family, friends, recruiters, and your future self will thank you.",
-    "description": "Complete essential training courses on LinkedIn Learning for Adobe Photoshop, Adobe Illustrator, and Adobe InDesign. This challenge is designed to build a strong foundation in design and web development tools.",
+    "description": "Complete essential training courses on LinkedIn Learning for Adobe Photoshop, Adobe Illustrator, Adobe InDesign, CSS, and HTML. This challenge is designed to build a strong foundation in design and web development tools.",
     "background": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Artboard%201.svg",
     "mountains": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Artboard%201_1.svg",
     "forestBack": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Artboard%201_2.svg",
@@ -11,11 +11,13 @@
     "forestFront": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Artboard%201_4.svg",
     "category": "Design & Development",
     "difficulty": "Medium",
-    "duration": "20 hours",
+    "duration": "30 hours",
     "resource": [
       "https://www.linkedin.com/learning/paths/essential-skills-in-adobe-photoshop-2024-professional-certificate?u=50813145",
       "https://www.linkedin.com/learning/paths/essential-skills-in-adobe-illustrator-2024-professional-certificate?u=50813145",
-      "https://www.linkedin.com/learning/paths/essential-skills-in-adobe-indesign-2024-professional-certificate?u=50813145"
+      "https://www.linkedin.com/learning/paths/essential-skills-in-adobe-indesign-2024-professional-certificate?u=50813145",
+      "https://www.linkedin.com/learning-login/share?account=50813145&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcss-essential-training-22688362%3Ftrk%3Dshare_ent_url%26shareId%3Dzf0YJDiaQ%252Be3itjR5Rc45w%253D%253D",
+      "https://www.linkedin.com/learning-login/share?account=50813145&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fhtml-essential-training-4%3Ftrk%3Dshare_ent_url%26shareId%3D%252BzB51kteQWaj0o6VuQpwWQ%253D%253D"
     ],
     "requirements": [
       "Access to LinkedIn Learning",
