@@ -126,5 +126,48 @@
       { "className": "Logos & Symbols", "recipient": "Felipe Queiroz Rocha" },
       { "className": "Creating Brand Experience", "recipient": "Jeanette Rodriguez" }
     ]
+  },
+    "April": {
+    "campusAwards": [
+      { "className": "Digital Publishing", "recipient": "Brian Medina-Villalta" },
+      { "className": "Creating Brand Experience", "recipient": "Luis Zamot" },
+      { "className": "Int. Media Design & Usability", "recipient": "Amy Rosario" },
+      { "className": "Interactive Editorial Design", "recipient": "Roxanne Storts-Berio" },
+      { "className": "Graphic Web Design", "recipient": "Ta'Asia Singleton" },
+      { "className": "Media Integration", "recipient": "Maria Canache" },
+      { "className": "Portfolio V", "recipient": "Maria Canache Guevara" },
+      { "className": "Porfolio VI", "recipient": "Andrew Blaszynski" },
+      { "className": "Packaging & Prototypes", "recipient": "Antoine Tucker" },
+      { "className": "Visual Realization", "recipient": "Philip Thompson" },
+      { "className": "Portfolio VII", "recipient": "Trance Mabins" }
+    ],
+    "onlineAwards": [
+      { "className": "Digital Publishing", "recipient": "Hunter Webb" },
+      { "className": "Logos & Symbols", "recipient": "Loan Nelson" },
+      { "className": "Creating Brand Experience", "recipient": "Kelsey Smith" },
+      { "className": "Concepts in Advertising", "recipient": "Jonathan Brooks" },
+      { "className": "Portfolio IV", "recipient": "Gregory Wade" },
+      { "className": "Int. Media Design & Usability", "recipient": "Mine Van Heerden" },
+      { "className": "Interactive Editorial Design", "recipient": "Chelsie Lombardo" },
+      { "className": "Graphic Web Design", "recipient": "Thalia Suglam" },
+      { "className": "Media Integration", "recipient": "Scott Prestidge" },
+      { "className": "Portfolio V", "recipient": "Alexia Gonzalez" },
+      { "className": "Porfolio VI", "recipient": "Adam Lucas" },
+      { "className": "Packaging & Prototypes", "recipient": "Gunner Fullbright" },
+      { "className": "Visual Realization", "recipient": "Luis Alvarez Feliciano" },
+      { "className": "Portfolio VII", "recipient": "Lola Mateos" },
+      { "className": "Digital Publishing", "recipient": "Gjalove Muhammad-Gunnell" },
+      { "className": "Logos & Symbols", "recipient": "Tracy Rogers" },
+      { "className": "Creating Brand Experience", "recipient": "Megan Capulong" },
+      { "className": "Concepts in Advertising", "recipient": "Romina Soto" },
+      { "className": "Portfolio IV", "recipient": "Brigitte Coster" },
+      { "className": "Int. Media Design & Usability", "recipient": "Kelvin Garcia Morales" },
+      { "className": "Interactive Editorial Design", "recipient": "Dakota Ash" },
+      { "className": "Media Integration", "recipient": "Paul Bonasera" },
+      { "className": "Portfolio V", "recipient": "Angelina Miller" },
+      { "className": "Porfolio VI", "recipient": "Kaitlyn Boggess" },
+      { "className": "Digital Publishing", "recipient": "Chatney Johnson" },
+      { "className": "Creating Brand Experience", "recipient": "Jacob Phelps" }
+    ]
   }
 }
