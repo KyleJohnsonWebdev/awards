@@ -169,5 +169,48 @@
       { "className": "Digital Publishing", "recipient": "Chatney Johnson" },
       { "className": "Creating Brand Experience", "recipient": "Jacob Phelps" }
     ]
-  }
+  },
+  "May": {
+  "campusAwards": [
+    { "className": "Concepts in Advertising", "recipient": "Kevin Prevot" },
+    { "className": "Creating Brand Experience", "recipient": "Naomie Kabola" },
+    { "className": "Digital Publishing", "recipient": "Gabriella Serrano" },
+    { "className": "Graphic Web Design", "recipient": "Roxanne Storts-Berio" },
+    { "className": "Int. Media Design & Usability", "recipient": "Fernando Flores Delgado" },
+    { "className": "Interactive Editorial Design", "recipient": "Caleb Richardson" },
+    { "className": "Media Integration", "recipient": "Ta'Asia Singleton" },
+    { "className": "Portfolio VI (GRD469)", "recipient": "Maria Canache Guevara" },
+    { "className": "Portfolio VI (VSA469GR)", "recipient": "Cole Maury" },
+    { "className": "Visual Realization", "recipient": "Andrew Blaszynski" }
+  ],
+  "onlineAwards": [
+    { "className": "Concepts in Advertising", "recipient": "Hillary Castellanos" },
+    { "className": "Creating Brand Experience", "recipient": "Gordon Cranford" },
+    { "className": "Digital Publishing", "recipient": "Bryauna Nelson" },
+    { "className": "Graphic Web Design", "recipient": "Kristapher Halsey" },
+    { "className": "Int. Media Design & Usability", "recipient": "Brigitte Coster" },
+    { "className": "Interactive Editorial Design", "recipient": "Mine Van Heerden" },
+    { "className": "Logos & Symbols", "recipient": "Joshua Jacobs" },
+    { "className": "Media Integration", "recipient": "Chantee Antar-Joyner" },
+    { "className": "Packaging & Prototypes", "recipient": "Kevin Bruning" },
+    { "className": "Portfolio IV", "recipient": "Eathan Turner" },
+    { "className": "Portfolio V", "recipient": "Paul Bonasera" },
+    { "className": "Portfolio VI (GRD469)", "recipient": "Lauren Fingulin" },
+    { "className": "Portfolio VI (VSA469GR)", "recipient": "Melissa Dunton" },
+    { "className": "Visual Realization", "recipient": "Kaitlyn Boggess" },
+    { "className": "Concepts in Advertising", "recipient": "Sydney Morton" },
+    { "className": "Creating Brand Experience", "recipient": "Krista Pendergrass" },
+    { "className": "Digital Publishing", "recipient": "Aaron Tabor" },
+    { "className": "Int. Media Design & Usability", "recipient": "Manisha Desai" },
+    { "className": "Interactive Editorial Design", "recipient": "Torri Fry" },
+    { "className": "Logos & Symbols", "recipient": "Savannah Law" },
+    { "className": "Media Integration", "recipient": "Andrew Butler" },
+    { "className": "Portfolio IV", "recipient": "Shestin Ascough" },
+    { "className": "Portfolio VI (GRD469)", "recipient": "Angelina Miller" },
+    { "className": "Portfolio VI (VSA469GR)", "recipient": "Kristina Morgan" },
+    { "className": "Visual Realization", "recipient": "Chloe Cockerill" },
+    { "className": "Creating Brand Experience", "recipient": "Daisy Duarte" },
+    { "className": "Logos & Symbols", "recipient": "Tae Bell Wright" }
+  ]
+}
 }
