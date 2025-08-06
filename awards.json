@@ -212,5 +212,44 @@
     { "className": "Creating Brand Experience", "recipient": "Daisy Duarte" },
     { "className": "Logos & Symbols", "recipient": "Tae Bell Wright" }
   ]
+},"June": {
+  "campusAwards": [
+    { "className": "Digital Publishing", "recipient": "Ahlil Jones" },
+    { "className": "Graphic Web Design", "recipient": "Amy Rosario" },
+    { "className": "Int. Media Design & Usability", "recipient": "Antoine Tucker" },
+    { "className": "Logos & Symbols", "recipient": "Alexandra Zayas" },
+    { "className": "Media Integration", "recipient": "Roxanne Storts-Berio" },
+    { "className": "Portfolio V", "recipient": "JoMarie Rivera Delgado" },
+    { "className": "Portfolio VI (GRD469)", "recipient": "Catherine Hansen" },
+    { "className": "Visual Realization", "recipient": "Maria Canache Guevara" }
+  ],
+  "onlineAwards": [
+    { "className": "Concepts in Advertising", "recipient": "David Weiner" },
+    { "className": "Creating Brand Experience", "recipient": "Christopher Castillo" },
+    { "className": "Digital Publishing", "recipient": "Jeffrey Fina" },
+    { "className": "Graphic Web Design", "recipient": "Eric Afrifa" },
+    { "className": "Int. Media Design & Usability", "recipient": "Hailee Cranston" },
+    { "className": "Interactive Editorial Design", "recipient": "Madelynn Snelling" },
+    { "className": "Logos & Symbols", "recipient": "Trivia Turnipseed" },
+    { "className": "Media Integration", "recipient": "Tristen Howell" },
+    { "className": "Packaging & Prototypes", "recipient": "Caitlyn Bohld" },
+    { "className": "Portfolio IV", "recipient": "Kelsey Smith" },
+    { "className": "Portfolio V", "recipient": "Cassandra Yanes" },
+    { "className": "Portfolio VI (GRD469)", "recipient": "Paul Bonasera" },
+    { "className": "Portfolio VI (VSA469GR)", "recipient": "Kaitlyn Boggess" },
+    { "className": "Visual Realization", "recipient": "Lauren Fingulin" },
+    { "className": "Creating Brand Experience", "recipient": "Natasha Cervi" },
+    { "className": "Digital Publishing", "recipient": "Dylan Smith" },
+    { "className": "Graphic Web Design", "recipient": "Daniel Johnson" },
+    { "className": "Int. Media Design & Usability", "recipient": "Gunner Fullbright" },
+    { "className": "Interactive Editorial Design", "recipient": "Brigitte Coster" },
+    { "className": "Logos & Symbols", "recipient": "Kelly Wall" },
+    { "className": "Media Integration", "recipient": "Kimberly Sanders" },
+    { "className": "Portfolio IV", "recipient": "Hillary Castellanos" },
+    { "className": "Portfolio V", "recipient": "Andrew Bishop" },
+    { "className": "Portfolio VI (GRD469)", "recipient": "Adedayo Olugbemi" },
+    { "className": "Portfolio VI (VSA469GR)", "recipient": "Karissa Love" },
+    { "className": "Visual Realization", "recipient": "Erin Tessein" }
+  ]
 }
 }
