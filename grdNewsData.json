@@ -1,22 +1,26 @@
 [
-  {
-    "id": 1,
-    "title": "Lab Hours",
-    "date": "8/6/2025",
-    "description": "Remember that lab is open from 1-5 every weekday.",
-    "link": "https://www.fullsail.edu/about/faqs/important-dates#student-break-calendar",
-    "moreInfo": "Each class requires you to attend lab for 4 hours twice a week. Come in and hang out with Jesse and Kyle."
-  },
-  {
+   {
     "id": "last-lab-oct-2025",
     "title": "Announcing The Last Lab: GRaD Launch",
     "date": "Saturday, October 25, 2025 • 1:00–5:00 PM ET • FS2-107Q + Livestream",
-    "description": "Celebrate our October Graphic Design Bachelor’s graduate, Caleb Richardson! An afternoon of games, prizes, design presentations, networking, and a professional Feedback Jam open to all students—on campus and via livestream.",
-    "moreInfo": "Hosted by Full Sail’s graduating Graphic Design students and faculty.\n\nFeedback Jam Leaders (DAD/GRD Alumni):\n• Lucia Aveitua — Multimedia Designer, Automation Builder, Growth Partner at Upward Seven\n• Kathleen Reyes — Senior Art Director at Marriott Vacations Worldwide; President, AIGA Orlando\n• Bart Pryor — Multimedia Designer at Rocket Chimp Marketing & Advertising\n\nWho should attend:\n• Graphic Design students seeking portfolio feedback\n• Students curious about a career in design\n• Peers looking to network with alumni and industry pros\n\nWhat to expect:\n• Quick design talks + demos\n• Portfolio/project critiques during the Feedback Jam (sign-ups on site)\n• Games, prizes, and community networking\n\nLivestream:\nA live online option will run concurrently for remote students. Final link and details will be posted on the event page before the start time.",
+    "description": "Celebrate our October Graphic Design Bachelor’s graduate, Caleb Richardson! An afternoon of games, prizes, design presentations, networking, and community.",
+    "moreInfo": "Hosted by Full Sail’s graduating Graphic Design students and faculty. This campus event runs alongside a livestream for online students. Expect quick design talks, demos, casual networking, and prizes throughout the afternoon.",
     "url": "https://example.com/last-lab-grad-launch",
     "image": {
       "src": "https://res.cloudinary.com/dry1pwclt/image/upload/v1759953192/October2025FSOneAd_eeopfy.png",
-      "alt": "The Last Lab: GRaD Launch event graphic"
+      "alt": "The Last Lab: event graphic"
+    }
+  },
+  {
+    "id": "feedback-jam-oct-2025",
+    "title": "Feedback Jam — Alumni Portfolio Critique",
+    "date": "Saturday, October 25, 2025 • During The Last Lab • FS2-107Q + Livestream",
+    "description": "Open critique session for portfolio pieces, projects, and works-in-progress—guided by DAD/GRD alumni.",
+    "moreInfo": "Leads:\n• Lucia Aveitua — Multimedia Designer, Automation Builder, Growth Partner at Upward Seven\n• Kathleen Reyes — Senior Art Director, Marriott Vacations Worldwide; President, AIGA Orlando\n• Bart Pryor — Multimedia Designer, Rocket Chimp Marketing & Advertising\n\nWho should attend:\n• Graphic Design students seeking actionable feedback\n• Anyone curious about the critique process and industry expectations\n\nHow it works:\n• Bring a link or files for 1–2 pieces\n• Sign up on site (or via the livestream form)\n• Get focused, time-boxed feedback with takeaways",
+    "url": "https://example.com/feedback-jam-signup",
+    "image": {
+      "src": "https://res.cloudinary.com/dry1pwclt/image/upload/v1759955445/BIO_n1hkmm.png",
+      "alt": "Feedback Jam alumni critique graphic"
     }
   }
 ]
