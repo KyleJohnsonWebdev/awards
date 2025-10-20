@@ -1,9 +1,9 @@
 [
   {
     "id": 1,
-    "title": "LinkedIn Learning Essential Training Challenge",
-    "hook": "Conquer this LinkedIn Learning challenge and officially win at adulting. Family, friends, recruiters, and your future self will thank you.",
-    "description": "Complete essential training courses on LinkedIn Learning for Adobe Photoshop, Adobe Illustrator, Adobe InDesign, CSS, and HTML. This challenge is designed to build a strong foundation in design and web development tools.",
+    "title": "Foundations of Adobe Visual Design",
+    "hook": "Master Photoshop, Illustrator, and InDesign—the essential Adobe trio every designer needs to communicate ideas visually and confidently.",
+    "description": "Complete the O'Reilly course 'Adobe Visual Design: Photoshop, Illustrator and InDesign for Beginners.' Build your creative foundation by learning how the Adobe ecosystem connects across print and digital design projects. By completing this, you'll strengthen your technical skillset and prepare for advanced coursework.",
     "background": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Artboard%201.svg",
     "mountains": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Artboard%201_1.svg",
     "forestBack": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Artboard%201_2.svg",
@@ -13,23 +13,19 @@
     "difficulty": "Medium",
     "duration": "30 hours",
     "resource": [
-      "https://www.linkedin.com/learning/paths/essential-skills-in-adobe-photoshop-2024-professional-certificate?u=50813145",
-      "https://www.linkedin.com/learning/paths/essential-skills-in-adobe-illustrator-2024-professional-certificate?u=50813145",
-      "https://www.linkedin.com/learning/paths/essential-skills-in-adobe-indesign-2024-professional-certificate?u=50813145",
-      "https://www.linkedin.com/learning-login/share?account=50813145&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcss-essential-training-22688362%3Ftrk%3Dshare_ent_url%26shareId%3Dzf0YJDiaQ%252Be3itjR5Rc45w%253D%253D",
-      "https://www.linkedin.com/learning-login/share?account=50813145&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fhtml-essential-training-4%3Ftrk%3Dshare_ent_url%26shareId%3D%252BzB51kteQWaj0o6VuQpwWQ%253D%253D"
+      "https://learning.oreilly.com/course/adobe-visual-design/9780138278182/"
     ],
     "requirements": [
-      "Access to LinkedIn Learning",
-      "Dedication to complete all essential training courses"
+      "Access to O'Reilly Learning through your institution",
+      "Commitment to complete all Adobe Visual Design modules"
     ],
-    "reward": "Essential Training Badge. A LinkedIn profile that stands out to recruiters."
+    "reward": "Adobe Foundations Badge. Confidence using Photoshop, Illustrator, and InDesign."
   },
   {
     "id": 2,
-    "title": "Project Revision & Badge Challenge",
-    "hook": "Turn feedback into a finished masterpiece—revise your projects, impress your instructors, and earn that badge sticker like a pro.",
-    "description": "Take your instructor's feedback on a project and implement the revisions. Present the updated project to your instructor for review. If you successfully update your project and include it in your portfolio, you will earn a badge sticker, and your work will be showcased.",
+    "title": "Revise, Refine & Build Your Design Projects",
+    "hook": "Transform instructor feedback into polished, portfolio-worthy work using modern creative tools.",
+    "description": "Take your project revision to the next level with the O'Reilly course 'Ultimate Graphic Design Course: Create 40 Practical Projects.' Apply what you’ve learned in class to refine layouts, experiment with typography, and finalize pieces that represent your best work. This challenge helps you strengthen your process and presentation.",
     "background": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Revise.svg",
     "mountains": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Revise-01.svg",
     "forestBack": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Revise-02.svg",
@@ -37,20 +33,21 @@
     "forestFront": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/main/SVG/Revise-04.svg",
     "category": "Portfolio Enhancement",
     "difficulty": "Medium",
-    "duration": "3 hours",
-    "resource": "none",
-    "requirements": [
-      "Completion of a project with instructor feedback",
-      "Incorporation of revisions into the project",
-      "Updated project in your portfolio"
+    "duration": "6 hours",
+    "resource": [
+      "https://www.oreilly.com/videos/ultimate-graphic-design/9781839216244/"
     ],
-    "reward": "Project Revision Sticker. Rad Sense of Accomplishment."
+    "requirements": [
+      "Completion of a class project with instructor feedback",
+      "Revision and improvement using skills from the O'Reilly course"
+    ],
+    "reward": "Project Revision Badge. A stronger, more professional body of work."
   },
   {
     "id": 3,
-    "title": "AI-Powered Resume Challenge",
-    "hook": "Optimize your resume with AI tools and land the job of your dreams.",
-    "description": "Use AI tools like LinkedIn Resume Builder, Grammarly, and Jobscan to optimize your resume. Focus on clarity, tailoring it to specific roles, and highlighting your key achievements. Learn how to use AI suggestions to make your resume stand out to recruiters.",
+    "title": "Design Career Playbook: Freelance or Studio Pathways",
+    "hook": "Learn how to present yourself as a professional designer—online, in person, and in your portfolio.",
+    "description": "Explore 'Design Career Playbook: Navigate a Freelance or Studio Design Job' on O'Reilly. This course focuses on the practical side of creative careers—resumes, networking, interviews, and portfolio positioning. Perfect for students preparing to enter the design industry or launch freelance work.",
     "background": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/refs/heads/main/SVG/AIRESUMEArtboard1.svg",
     "mountains": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/refs/heads/main/SVG/aiResume/Artboard%201_1.svg",
     "forestBack": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/refs/heads/main/SVG/aiResume/Artboard%201_2.svg",
@@ -58,20 +55,21 @@
     "forestFront": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/refs/heads/main/SVG/aiResume/Artboard%201_4.svg",
     "category": "Career Development",
     "difficulty": "Medium",
-    "duration": "3 hours",
-    "resource": "https://www.linkedin.com/learning/designing-a-resume-in-indesign/introduction-to-designing-a-resume-24474364?resume=false&u=50813145",
-    "requirements": [
-      "Access to AI tools like LinkedIn Resume Builder, Grammarly, or Jobscan",
-      "A current resume to optimize",
-      "Willingness to implement AI feedback"
+    "duration": "4 hours",
+    "resource": [
+      "https://learning.oreilly.com/videos/design-career-playbook/10000DIVC202421/10000DIVC202421-cccccc1/"
     ],
-    "reward": "Optimized Resume Badge. A job-ready resume that stands out."
+    "requirements": [
+      "Completion of a resume or portfolio draft",
+      "Willingness to apply professional and career guidance from the course"
+    ],
+    "reward": "Career Playbook Badge. A clearer direction for your professional design journey."
   },
   {
     "id": 4,
-    "title": "Create Your Personal Branding Kit",
-    "hook": "Make your mark with a cohesive personal brand that screams 'hire me.'",
-    "description": "Design a logo, business card, and email signature for yourself. Ensure consistency in colors, typography, and messaging across all assets.",
+    "title": "Brand Identity Systems: From Concept to Digital Implementation",
+    "hook": "Build a cohesive personal or client brand system—logo, color, and typography unified across media.",
+    "description": "Complete the O'Reilly course 'Brand Identity Systems: From Concept to Digital Implementation.' Learn how professional designers create consistent, meaningful brand identities that translate from print to digital. Perfect for students developing a personal brand or refining client projects.",
     "background": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/refs/heads/main/SVG/BRANDArtboard1.svg",
     "mountains": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/refs/heads/main/SVG/Brand/Artboard%201_1.svg",
     "forestBack": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/refs/heads/main/SVG/Brand/Artboard%201_2.svg",
@@ -79,60 +77,58 @@
     "forestFront": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/refs/heads/main/SVG/Brand/Artboard%201_4.svg",
     "category": "Branding",
     "difficulty": "Medium",
-    "duration": "6 hours",
-    "resource": "https://www.linkedin.com/learning/paths/advance-your-career-as-a-graphic-designer?u=50813145",
-    "requirements": [
-      "Basic design knowledge",
-      "A theme or direction for your personal brand"
+    "duration": "5 hours",
+    "resource": [
+      "https://learning.oreilly.com/videos/brand-identity-systems/10000DIVC202323/10000DIVC202323-zzzzzz/"
     ],
-    "reward": "Brand Builder Badge. Polished assets that leave a lasting impression."
+    "requirements": [
+      "Access to Adobe Illustrator and InDesign",
+      "Development of a logo, color palette, and type system for a personal or mock brand"
+    ],
+    "reward": "Brand Identity Badge. A polished, professional identity system ready for real-world use."
   },
   {
     "id": 5,
-    "title": "LinkedIn Profile Optimization Challenge",
-    "hook": "Optimize your LinkedIn profile to make a lasting impression on recruiters.",
-    "description": "Revamp your LinkedIn profile by adding certifications, a strong summary, updated projects, and a professional profile picture. Learn how to use keywords to increase visibility.",
+    "title": "Online Portfolio & Social Presence: Designer’s Guide 2025",
+    "hook": "Make your online design presence stand out—whether it’s your website, Behance, or social profiles.",
+    "description": "Use the O'Reilly course 'Online Portfolio Sites & Social Presence: Designer’s Guide 2025' to elevate how you showcase work online. Learn how professional designers curate projects, write compelling descriptions, and maintain a cohesive visual brand across web and social channels.",
     "background": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/refs/heads/main/SVG/LINKEDArtboard1.svg",
     "mountains": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/refs/heads/main/SVG/Linked/Artboard%201_1.svg",
     "forestBack": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/refs/heads/main/SVG/Linked/Artboard%201_2.svg",
     "forestMid": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/refs/heads/main/SVG/Linked/Artboard%201_3.svg",
     "forestFront": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/refs/heads/main/SVG/Linked/Artboard%201_4_1.svg",
     "category": "Career Development",
-    "difficulty": "Easy",
-    "duration": "2 hours",
-    "resource": "https://www.linkedin.com/learning/",
-    "requirements": [
-      "Access to LinkedIn",
-      "Willingness to research and implement best practices"
+    "difficulty": "Medium",
+    "duration": "4 hours",
+    "resource": [
+      "https://learning.oreilly.com/videos/online-portfolio-sites-social-presence/10000DIVC202525/10000DIVC202525-bbbbbb/"
     ],
-    "reward": "Professional Profile Badge. A LinkedIn profile that wows."
+    "requirements": [
+      "Existing portfolio or work samples to showcase online",
+      "Interest in developing a cohesive digital presence across platforms"
+    ],
+    "reward": "Professional Presence Badge. A unified, standout online design brand."
   },
   {
-  "id": 6,
-  "title": "Graphic Design Portfolio Inspiration Challenge",
-  "hook": "Discover top-tier design portfolios, analyze what makes them great, and gather inspiration for your own masterpiece.",
-  "description": "Research and analyze at least five professional graphic design portfolios. Take notes on layout, typography, color schemes, presentation style, and project descriptions. Identify common trends and elements that make portfolios stand out. Summarize your key takeaways and create a mood board for your own portfolio inspiration. Use LinkedIn Learning resources to explore tools like Adobe Portfolio and Behance to start building your own portfolio.",
-  "background": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/refs/heads/main/SVG/PORTFOLIOArtboard1.svg",
+    "id": 6,
+    "title": "Create an Outstanding Design Portfolio: Print & Digital",
+    "hook": "Build a portfolio that reflects your craft, your process, and your growth as a designer.",
+    "description": "Explore O'Reilly resources that guide portfolio creation and presentation for designers. Use these insights to design a portfolio—print or digital—that highlights your strongest work and communicates your creative process clearly.",
+    "background": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/refs/heads/main/SVG/PORTFOLIOArtboard1.svg",
     "mountains": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/refs/heads/main/SVG/Portfolio/Artboard%201_1.svg",
     "forestBack": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/refs/heads/main/SVG/Portfolio/Artboard%201_2.svg",
     "forestMid": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/refs/heads/main/SVG/Portfolio/Artboard%201_3.svg",
     "forestFront": "https://raw.githubusercontent.com/KyleJohnsonWebdev/awards/refs/heads/main/SVG/Portfolio/Artboard%201_4_1.svg",
-  "category": "Design Research",
-  "difficulty": "Easy",
-  "duration": "3 hours",
-  "resource": [
-    "https://www.behance.net/",
-    "https://dribbble.com/",
-    "https://www.awwwards.com/",
-    "https://www.linkedin.com/learning-login/share?account=50813145&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fbuilding-a-portfolio-with-adobe-portfolio-9903517%3Ftrk%3Dshare_ent_url%26shareId%3DECa33pWPRBqxHfYW6iHfBQ%253D%253D",
-    "https://www.linkedin.com/learning-login/share?account=50813145&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fcreative-cloud-crash-course%2Fbehance-and-adobe-portfolio%3Ftrk%3Dshare_video_url%26shareId%3D8ZGjpXtQR8%252BBBUinoivZcQ%253D%253D"
-  ],
-  "requirements": [
-    "Explore at least five professional graphic design portfolios",
-    "Take detailed notes on design elements and trends",
-    "Create a mood board with your favorite ideas",
-    "Review LinkedIn Learning resources on portfolio creation"
-  ],
-  "reward": "Portfolio Research Badge. A solid foundation for crafting an outstanding portfolio."
-}
+    "category": "Design Research",
+    "difficulty": "Medium",
+    "duration": "5 hours",
+    "resource": [
+      "https://learning.oreilly.com/library/view/graphic-design-portfolio-builder/0321336585/"
+    ],
+    "requirements": [
+      "Select and refine 3–5 projects that represent your best work",
+      "Create both print and digital versions of your design portfolio"
+    ],
+    "reward": "Portfolio Mastery Badge. A standout body of work ready for clients or employers."
+  }
 ]
