@@ -1,40 +1,21 @@
 [
   {
     "id": "last-lab-oct-2025",
-    "title": "Announcing The Last Lab: GRaD Launch",
-    "date": "Saturday, October 25, 2025 • 1:00–5:00 PM ET • FS2-107Q + Livestream",
-    "description": "Celebrate our October Graphic Design Bachelor’s graduate, Caleb Richardson! An afternoon of games, prizes, design presentations, networking, and community.",
-    "moreInfo": "Hosted by Full Sail’s graduating Graphic Design students and faculty. This campus event runs alongside a livestream for online students. Expect quick design talks, demos, casual networking, and prizes throughout the afternoon.\n\nProfessionalism Credit (GPS):\nStudents attending can earn GPS credit through the Count Me In and Check-In Code options on Full Sail One. No RSVP or portfolio submission is required—just participation.",
-    "url": "https://one.fullsail.edu/connect/events/11155-the-last-lab--grad-launch/occurrences/1761847200000",
+    "title": "The Last Lab: GRaD Launch - February",
+    "date": "Wed, Mar 4, 2026 at 2:00 PM - 4:00 PM EST",
+    "description": "Get ready for a fabulously fun afternoon inspired by creativity, design, and the Full Sail GRD Experience!",
+    "moreInfo": "Ever wanted to pick the brain of a professional Graphic Designer? Well, you’re in luck! Our Last Lab February event will feature a unique and exclusive twist on the “Ask Me Anything” interactive interview format. We're featuring three of our Full Sail Graduates who live and work in our local creative industry!",
+    "url": "https://one.fullsail.edu/connect/groups/233-the-last-lab--grad-launch/events/11779-the-last-lab--grad-launch/occurrences/1772650800000",
     "actions": [
       {
         "label": "View on Full Sail One",
-        "href": "https://one.fullsail.edu/connect/events/11155-the-last-lab--grad-launch/occurrences/1761847200000",
+        "href": "https://one.fullsail.edu/connect/groups/233-the-last-lab--grad-launch/events/11779-the-last-lab--grad-launch/occurrences/1772650800000",
         "variant": "contained"
       }
     ],
     "image": {
-      "src": "https://res.cloudinary.com/dry1pwclt/image/upload/v1759953192/October2025FSOneAd_eeopfy.png",
+      "src": "https://res.cloudinary.com/dry1pwclt/image/upload/v1771015312/1771008735375-LL_FSOne-Feb2026_sfhllm.jpg",
       "alt": "The Last Lab: event graphic"
-    }
-  },
-  {
-    "id": "feedback-jam-oct-2025",
-    "title": "Feedback Jam — Alumni Portfolio Critique",
-    "date": "Saturday, October 25, 2025 • During The Last Lab • FS2-107Q + Livestream",
-    "description": "On-campus critique session for portfolio pieces, projects, and works-in-progress—guided by DAD/GRD alumni.",
-    "moreInfo": "Leads:\n• Lucia Aveitua — Multimedia Designer, Automation Builder, Growth Partner at Upward Seven\n• Kathleen Reyes — Senior Art Director, Marriott Vacations Worldwide; President, AIGA Orlando\n• Bart Pryor — Multimedia Designer, Rocket Chimp Marketing & Advertising\n\nWho Should Attend:\n• Graphic Design students seeking actionable, in-person feedback\n• Anyone curious about the critique process and industry expectations\n\nHow It Works (On Campus):\n• Attend during The Last Lab event; feedback will be provided throughout the session—no reserved time slots\n• Bring 1–2 pieces (portfolio, poster, motion, etc.) and participate in the open critique\n\nProfessionalism Credit (GPS):\nStudents can earn GPS credit through the Count Me In and Check-In Code options on Full Sail One.\n\nLivestream (View-Only):\nRemote students may watch select sessions. **No remote portfolio reviews for this event.**",
-    "url": "https://one.fullsail.edu/connect/events/11155-the-last-lab--grad-launch/occurrences/1761847200000",
-    "actions": [
-      {
-        "label": "View on Full Sail One",
-        "href": "https://one.fullsail.edu/connect/events/11155-the-last-lab--grad-launch/occurrences/1761847200000",
-        "variant": "contained"
-      }
-    ],
-    "image": {
-      "src": "https://res.cloudinary.com/dry1pwclt/image/upload/v1759955445/BIO_n1hkmm.png",
-      "alt": "Feedback Jam alumni critique graphic"
     }
   }
 ]
